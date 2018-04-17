@@ -1,0 +1,12 @@
+#coding:utf-8
+###下面的函数返回当前工作目录中所有文件的大小总和
+#list.py
+
+def size_in_bytes(fname) :
+    return os.stat(fname).st_size
+
+def cwd_size_in_bytes() :
+    total = 0
+    for name in files_cwd() :
+        total = total + size_in_bytes(name)
+    return total

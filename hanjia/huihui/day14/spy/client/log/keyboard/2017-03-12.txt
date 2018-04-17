@@ -1,0 +1,12 @@
+localTime            PID              executable            windowName                  keys
+2017-03-12 22:45:08||4504||pycharm.exe||KeySpy.py - [C:\Users\qiang\AppData\Local\Temp\KeySpy.py0.tmp] - E:\python2.7\work\huihui\day14\spy\client\KeySpy.py - PyCharm 5.0.3||ASCASCASC90-0+[Enter]  [Enter][Enter]   [Enter]ASCSAC[shift][CAP][Tab][shift][CAP]   [ALT][ALT][ALT][shift][CAP]
+2017-03-12 22:45:23||3716||360chrome.exe||py2.7 ascii字符串转unicode_百度搜索 - 360极速浏览器||ASCASC[ALT][ALT]  [Enter]+-0987656[Rshift]/:PM+--[Lmenu][Tab]
+2017-03-12 22:45:32||4504||pycharm.exe||KeySpy.py - [C:\Users\qiang\AppData\Local\Temp\KeySpy.py0.tmp] - E:\python2.7\work\huihui\day14\spy\client\KeySpy.py - PyCharm 5.0.3||ASCASC[Enter][Enter]DEF[Del][Del][Del][CAP]DEF  [shift]DESTORY[shift]9RightRight[Enter]
+2017-03-12 22:49:02||3716||360chrome.exe||pyhooks实现键盘监控学习心得 - 小五义 - 博客园 - 360极速浏览器||[ALT]C[Lmenu][Tab]
+2017-03-12 23:03:26||4504||pycharm.exe||KeySpy.py - [C:\Users\qiang\AppData\Local\Temp\KeySpy.py0.tmp] - E:\python2.7\work\huihui\day14\spy\client\KeySpy.py - PyCharm 5.0.3||KNLKNLL
+2017-03-12 23:03:30||3716||360chrome.exe||python: 多线程实现的两种方式及让多条命令并发执行 - 大数据处理技术研究、使用 - 360极速浏览器||HKJHKJJ
+2017-03-12 23:10:57||4504||pycharm.exe||KeySpy.py - [C:\Users\qiang\AppData\Local\Temp\KeySpy.py0.tmp] - E:\python2.7\work\huihui\day14\spy\client\KeySpy.py - PyCharm 5.0.3||HKJHJKHKJ
+2017-03-12 23:11:01||3716||360chrome.exe||python: 多线程实现的两种方式及让多条命令并发执行 - 大数据处理技术研究、使用 - 360极速浏览器||KJNKJNNMNMN,
+2017-03-12 23:11:05||4504||pycharm.exe||KeySpy.py - [C:\Users\qiang\AppData\Local\Temp\KeySpy.py0.tmp] - E:\python2.7\work\huihui\day14\spy\client\KeySpy.py - PyCharm 5.0.3||KMLM JKBJKJJKBMNBNMBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+2017-03-12 23:14:09||3716||360chrome.exe||python 编码 乱码问题 ascii unicode utf-8 - 博客频道 - CSDN.NET - 360极速浏览器||BBBBBBBBBBBBJJJJJJJJ
+

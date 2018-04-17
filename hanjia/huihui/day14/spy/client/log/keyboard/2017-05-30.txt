@@ -1,0 +1,29 @@
+localTime            PID              executable            windowName                  keys
+2017-05-30 22:38:15||21004||QQ.exe||青青草原等2个会话||WIN[Enter][Rshift]SCP [Enter][Rcontrol][Enter]ZHEHI [Del][Del]ZHESHI HENMAHomeS DONGD [Rshift]/[Enter]
+2017-05-30 22:46:30||17048||cloudmusic.exe||雪 - 杜雯媞/王艺翔||[Volume_Down][Volume_Down][Volume_Down][Volume_Down][Volume_Down][Volume_Down]
+2017-05-30 22:49:02||2096||wps.exe||毕设论文查重版v1.4.docx - WPS 文字||[Del][Del]RUTU NextDeleteDown[Numlock][Numpad3][Decimal][Numpad2][Del][Del][Del].[ALT]S[ALT]X[Enter][ALT]V[Enter][Enter][Enter][Del][Del][Del][Del][Del][Del]RUTU [Numpad3][Decimal][Numpad1]SUOSHI .[ALT]S
+2017-05-30 22:52:19||6876||notepad++.exe||F:\Senior_2\GraduationProjectMaterials\spyserver\spyserver\spy\views.py - Notepad++||[ALT]C
+2017-05-30 22:54:00||17048||cloudmusic.exe||二十岁的某一天 - 花粥||[Volume_Up][Volume_Up][Volume_Up][Volume_Up]
+2017-05-30 22:55:54||2096||wps.exe||毕设论文查重版v1.4.docx - WPS 文字||[Volume_Up][Volume_Up][Volume_Up]
+2017-05-30 22:56:47||6876||notepad++.exe||F:\Senior_2\GraduationProjectMaterials\spyserver\spyserver\spy\views.py - Notepad++||[ALT]C
+2017-05-30 22:57:20||2096||wps.exe||毕设论文查重版v1.4.docx - WPS 文字||[Enter][ALT]VSHIXIAN [Del][Del]HEXIN SHIXIAN DAIMA RUXIA [Del][Del]LeftLeft[Del][Del]LeftLeftSHIXIAN DENGLU MOK D RightRightRightRightRU XIA SUOSHI [Rshift]:[ALT]X[Del].[Enter][ALT]V[Del][Del][Del][Del][Del][Del][Del][ALT]X[Enter]Up[ALT]V[Del][ALT][ALT]X[Enter][ALT]V
+2017-05-30 23:00:27||21004||QQ.exe||蝴蝶结先生等3个会话||[Rshift]/[Enter]  [Rcontrol][Enter]MEIY YUANCHENG CHENGG MA [Rshift]/[Enter][Rcontrol][Enter]
+2017-05-30 23:01:01||2096||wps.exe||毕设论文查重版v1.4.docx * - WPS 文字||[ALT]Z[ALT]Z[ALT]Z[ALT]X[Enter][ALT]V
+2017-05-30 23:01:48||6876||notepad++.exe||F:\Senior_2\GraduationProjectMaterials\spyserver\spyserver\spy\views.py - Notepad++||[ALT]C
+2017-05-30 23:03:04||2096||wps.exe||毕设论文查重版v1.4.docx * - WPS 文字||[Enter][ALT]V[ALT]C[ALT]V[Del][Del]ZHUCE [Del][Del]SHIXIAN [Del][Del][Del][Del][Del][Del][Del][Del][Del][Del][Del][Del][Del][Del][Del][Del]
+2017-05-30 23:04:56||6876||notepad++.exe||F:\Senior_2\GraduationProjectMaterials\spyserver\spyserver\templates\reg.html - Notepad++||[ALT]C
+2017-05-30 23:05:16||2096||wps.exe||毕设论文查重版v1.4.docx * - WPS 文字||[Enter][Enter][ALT]V[Del][Del][Del][Del][Del][Del][Del][Del][Del][Del][Del][Del][Del][Del][Del][Del][Del][Del][Del][Del][Del][Del][Del][Del][Del][Del][Del][Del]
+2017-05-30 23:09:51||21004||QQ.exe||青青草原等3个会话||HTTP[shift][Enter]NI [shift]ZHIQ D [Del]GEIW FADE ZAI [Lwin]ZAI SHOUJI SHANG JIESHOU D [Del][Del][Del]JIESOU[Del][Del]HOU2D ,SUOYI DIANN JIL SHANG UY[Del][Del]MUY [Rcontrol][Enter][Escape][Escape][ALT]C
+2017-05-30 23:11:17||5232||WinSCP.exe||登录 - WinSCP||[ALT]VROOT[shift][Tab]ABC98765
+2017-05-30 23:12:04||3864||à||FileRecv||[ALT]X[ALT]V
+2017-05-30 23:13:00||5232||WinSCP.exe||将会话保存为站点||LeftLeftLeftMONGO    
+2017-05-30 23:13:30||17888||putty.exe||115.159.215.212 - PuTTY||LS[shift][Enter]CD /MON[Tab]W[Tab]SP[Tab][Tab][Tab][Tab][Tab][Del][Del][Enter]LS[Enter]CD /OP[Tab][Enter]LS[Enter]LS -L[Enter]CD ..[Enter]LS[Enter]CD MO[Tab][Enter]LS[Enter]CD W[Tab]E[Del][Enter]LS[Enter]CD /OP[Tab][Enter]LS[Enter]CD ..[Enter]HIS[Tab][shift]\SP銆怺Del][Del][Del]GREP SPY[Enter]HIS[Tab][shift]銆慬Del][shift]\HREAD[Del][Del][Del][Del]EAD 28[Enter]UpLeftLeftLeftRight-N [Enter]CD SO[Tab][Del][Del]/MO[Tab]S[Tab]O[Enter]Up[Del][Enter]CLEAR[Enter]LS[Enter]CD M[Tab][Enter]LS[Enter]CD ..[Enter]LS[Enter]CD ..[Enter]LS[Enter]
+2017-05-30 23:16:18||5232||WinSCP.exe||登录||[ALT]C
+2017-05-30 23:16:39||8908||360chrome.exe||360导航_新一代安全上网导航 - 360极速浏览器||[ALT]V[shift]:[Del][shift][shift]:123456[Del][Enter]
+2017-05-30 23:17:01||17888||putty.exe||115.159.215.212 - PuTTY||CD [shift]`[Enter]LS[Enter]CD S[Tab]P[Tab][Del][Enter]LS[Enter]
+2017-05-30 23:18:51||8908||360chrome.exe||EasyKeylogger|首页 - 360极速浏览器||\[Del][Enter]
+2017-05-30 23:20:06||21004||QQ.exe||蝴蝶结先生等2个会话||LIHA[Del][Del][Del][Del][Del]BBDA
+2017-05-30 23:20:17||17048||cloudmusic.exe||桌面歌词||[Volume_Down][Volume_Down][Volume_Down][Volume_Down][Volume_Down][Volume_Down][Volume_Down][Volume_Up][Volume_Up]
+2017-05-30 23:21:02||8908||360chrome.exe||登录 - 360极速浏览器||SUNSHINE[Numpad9][Numpad9][Numpad6][Numpad3][Numpad1][Numpad5]SUNSHINE[Del]996315SUNSHINE[Del]SUNSHINE[Volume_Up][Volume_Up][Volume_Up][Volume_Up][Volume_Up][Del]996315SUNSHINE[Numpad9][Numpad9][Numpad6][Numpad3][Numpad1][Numpad5]SUNSHINE
+2017-05-30 23:23:17||21004||QQ.exe||蝴蝶结先生等2个会话||WANLE [Del][Del][Del]YI4,SHIBUS ZAI WO NAG SHANGM JIL D SHUJU DOU MEILE [Rshift]/[Rcontrol][Enter]WO NAGE FUWUQ SHANGM [Enter][Rcontrol][Enter][Volume_Up]
+

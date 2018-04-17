@@ -1,0 +1,6 @@
+1.在windows上安装svn，从群文件里下载svn安装包 安装，安装完成后检出项目
+     项目地址: svn://115.159.202.75/huihui
+     用户名:huihui
+     密码:huihui888
+2.安装pycharm 开发工具  ,群文件里 有安装包 和汉化包，安装完成后将汉化包里的resources_cn.jar复制到...\..\PyCharm 171.2014.23\lib目录下，（你的pycharm安装目录下的lib目录下）
+3。看书 学习python基础。编写的程序请存放在以day01 day02 目录命名的目录下，每天晚上用svn 提交

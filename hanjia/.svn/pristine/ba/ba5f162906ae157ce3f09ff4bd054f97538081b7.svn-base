@@ -1,0 +1,30 @@
+#coding:utf-8
+###输出0-100之间的偶数
+#work0501.py
+
+def even_for() :
+    """Prints the evens from 0-100"""
+    for i in range(101) :
+        if (i%2) == 0 :
+            print i,
+    return
+
+def even_list() :
+    """Prints the evens from 0-100"""
+    list1 = []
+    result = []
+    for i in range(101) :
+        list1.append(i)
+
+    for i in list1 :
+        if (i%2) == 0 :
+            result.append(i)
+                
+    print ('\n{}'.format(result))
+    return result
+        
+
+
+if __name__ == "__main__" :
+    even_for()
+    even_list()

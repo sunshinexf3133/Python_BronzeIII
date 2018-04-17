@@ -1,0 +1,84 @@
+#coding:utf-8
+#爬虫总调度程序
+#爬取百度百科Python词条页面以及它所相关的1000个页面的标题和摘要数据
+'''
+Created on 2017年3月3日
+
+@author: xufei
+'''
+#在此处引入四个对象，并在相应模块中创建对应的class
+from baidu_spider import url_manager,html_downloader,html_parser,html_outputer
+import traceback
+
+#爬虫总调度程序的编写
+class SpiderMain(object):
+    #我们的爬虫总调度程序会使用URL管理器，HTML的下载器、解析器、输出器来完成所需要的功能，
+    #这些模块我们需要在构造函数中进行初始化
+    
+    #构造函数，用来初始化各个对象
+    #该函数已经初始化好了所需要的URL管理器，下载器，解析器，输出器四个对象
+    def __init__(self):
+        #urls作为URL管理器
+        self.urls = url_manager.UrlManager()
+        #下载器downloader
+        self.downloader = html_downloader.HtmlDownloader()
+        #解析器parser
+        self.parser = html_parser.HtmlParser()
+        #输出器outputer
+        self.outputer = html_outputer.HtmlOutputer()
+    
+    #爬虫的调度程序
+    def craw(self,root_url):
+        #记录当前爬取的是第几个URL
+        count = 1
+        #将入口url即root_url添加进URL管理器
+        #add_new_url是添加单个URL
+        self.urls.add_new_url(root_url)
+        #此时URL管理器中已经有了待爬取的URL，我们就可以启动爬虫的循环
+        #当URL管理器中有待爬取的URL的时候（has_new_url）,#我们获取一个待爬取的URL(get_new_url)
+        #获取到一个待爬取的URL之后，我们启动下载器来下载这个页面，结果存储在html_cont
+        #下载好了页面，我们调用解析器来解析这个页面数据得到新的url列表（new_urls）,以及新的数据（new_data）
+        #解析器我们传入两个参数：当前爬取的URL（new_url），以及下载好的页面数据（html_cont）
+        #解析出来的两个数据URL和数据，我们进行分别处理。首先将URL添加进URL管理器 ，收集数据
+        
+        #在做实验的过程中发现百度百科要么没有摘要数据，要么某个URL已经无法访问
+        #因此我们的while循环需要加入异常处理，将while循环的内容加入到try块里面
+        
+        #URL管理器中是否有待爬取的URL
+        while self.urls.has_new_url():
+            #异常处理
+            try:
+                #如果有待爬取的URL，获取该URL
+                new_url = self.urls.get_new_url()
+                #打印当前爬取的 是哪个以及第几个URL
+                print 'craw %d : %s' %(count,new_url)
+                #启动下载器下载该页面
+                html_cont = self.downloader.download(new_url)
+                #调用解析器来解析这个页面数据，并得到新的URL列表(new_urls)以及新的数据(new_data)
+                #解析器中传入两个参数：当前爬取的URL(new_url),以及下载好的页面数据(html_cont)
+                new_urls,new_data = self.parser.parse(new_url,html_cont)
+                #add_new_urls添加批量URL
+                self.urls.add_new_urls(new_urls)
+                #收集数据
+                self.outputer.collect_data(new_data)
+                
+                #本代码的目标是爬取1000个页面，故加此判断
+                if count == 1000:
+                    break
+            
+                count = count + 1
+            #出现问题则打印craw failed来标记这个URL爬取失败
+            except:
+                print traceback.print_exc(),'craw failed'
+        #输出收集好的数据 
+        self.outputer.collect_data(new_data)
+
+#爬虫总调度程序会以一个入口URL作为参数来爬取所有相关的页面
+#main函数
+if __name__ == "__main__" :
+    #设置爬虫的入口URL，此处用Python词条的URL作为我们的入口URL
+    root_url = "http://baike.baidu.com/item/Python"
+    #创建一个spider
+    obj_spider = SpiderMain()
+    #使用spider的craw方法来启动爬虫
+    obj_spider.craw(root_url)

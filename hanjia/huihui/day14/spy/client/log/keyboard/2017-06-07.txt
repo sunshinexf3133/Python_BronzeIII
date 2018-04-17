@@ -1,0 +1,88 @@
+localTime            PID              executable            windowName                  keys
+2017-06-06 23:58:46||6460||360chrome.exe||新标签页 - 360极速浏览器||WPSY[Del][shift]YEMEI  [Del][Del]YE[Del][Del][Del]YEMEI2SHANG D LIANTIAO+[Del][Del][Del][Del][Del][Del][Del]ANTIAO SHI SHENM DX [Enter][Del][Del][Del][Del][Del][Del][Del][Del]YOUGE SHANCHUX3[Enter][Del][Del][Del][Del][Del][Del][Del][Del]D CHANCHUXI[Del][Del][Del][Numlock][Del][Del][Del][Del][Del][Del]SHANCHUX [Del][Del][Del][Del]LI YOU LANSE TOUM D XIAN [Enter]Left[Del][Del]WENZI [Enter][Del][Del][Del][Del][Del]LANSE DUANXIAN2[Enter][Del][Del][Del][Del][Del][Del][Del][Del][Del][Del][Del][Del][Del][Del][Del]RUHE YIJIAN2CHAN[Del][Del][Del][Del]SHANCHU WPS[Enter]ZHONG D XIAN [Enter]WENZI [Enter]RUHE TUICHU XIUD M[Del]WPS[Enter][Enter]LeftLANSE QIAN+3[Enter]PDF[Enter]ZHUAN [Del]ZHUAN2WORD[Enter]HOU YOU LANSE D XIAN [Enter][ALT][ALT][ALT]
+2017-06-07 00:40:48||6268||QQ.exe||青青草原等2个会话||WOZHEGE SH SHUJUK FUWUQ DUAN HAIS SOCKET[Enter]DUAN [Del]FUWUQ [Rshift]/[Enter]
+2017-06-07 00:45:37||6460||360chrome.exe||C/S和B/S两种架构区别与优缺点分析_php实例_脚本之家 - 360极速浏览器||[Lmenu][ALT]A
+2017-06-07 00:45:52||6268||QQ.exe||青青草原等2个会话||[ALT]V[Enter]
+2017-06-07 00:58:07||10900||wps.exe||文档1 - WPS 文字||1.[Rshift]HOOK [Enter][Del]
+2017-06-07 00:58:41||6460||360chrome.exe||Windows API Hook - friendan的专栏 - 博客频道 - CSDN.NET - 360极速浏览器||[ALT]C
+2017-06-07 00:58:44||10900||wps.exe||文档1 * - WPS 文字||[ALT]V
+2017-06-07 00:59:19||6460||360chrome.exe||Windows API Hook - friendan的专栏 - 博客频道 - CSDN.NET - 360极速浏览器||[ALT]C
+2017-06-07 00:59:22||10900||wps.exe||文档1 * - WPS 文字||[ALT]V
+2017-06-07 00:59:36||6460||360chrome.exe||Windows API Hook - friendan的专栏 - 博客频道 - CSDN.NET - 360极速浏览器||[ALT]C
+2017-06-07 00:59:39||10900||wps.exe||文档1 * - WPS 文字||[ALT]V[Del][Del][Del][Del][Del][Del][Del][Del][Rshift]API  .[Del][shift]..[Del][Rshift].[Enter][Del]Y3[Del][Del][Enter][ALT]V[Del][Del][Del][Del][Del]YEJIUS [Del][Del][Rshift]HOOK D [Del][Del][Del][Del][Del][Del]WOM L Left[Del]RightRight[ALT]C[Enter][ALT]V[Del][Del][ALT]X[Enter][ALT]V[Del]DownDelete[Numlock][Enter][Numpad2][Decimal]
+2017-06-07 01:03:49||6268||QQ.exe||青青草原等2个会话||[ALT]CJIANL[Del][Del][Del][Del][Del]SHC[Del][Del][Del][ALT]C[ALT]V[Del][Del][Del][Del]SHUJU SHANGC MOK SHIBA3YIGE HUANC QU GAIC HUANCHONGDUIL [Enter][ALT]C
+2017-06-07 01:06:21||10900||wps.exe||文档1 * - WPS 文字||[ALT]V[Del][Del][Del]DUIL LeftLeft[Del][Del]RENW [Del][Del][Del]DUIL ZHONG [Del][Del][Del]RENW DUIL Right[Del]LIM RightRightRight[Del][Del]SHUJU [Del]RH [Enter]UpRightRightSHENGCHANZ -XIAOFEIZ MOX [Enter][Numpad3][Decimal][CAP]C/S[CAP]JIAGO 
+2017-06-07 01:08:06||6460||360chrome.exe||C/S和B/S两种架构区别与优缺点分析_php实例_脚本之家 - 360极速浏览器||[ALT]C
+2017-06-07 01:08:08||10900||wps.exe||文档1 * - WPS 文字||[ALT][Enter][ALT]VTA S [Del][Del][Del][ALT]XYEJIUS [ALT]V,[Del].[Del]ZHE [Del][Del]HUZ[Del]OZ SH [Del].[Del]WOM ZHEL ZHUY YONG  +[Del][Del]D S SHUJUK DUAN FUWUQ DUAN [Del][Del][Del]CAI+4RightRight[Del][Del][Del][Del][Del][Del][Del]ZHEGE XIT CAIY D .
+2017-06-07 01:10:34||6460||360chrome.exe||C/S和B/S两种架构区别与优缺点分析_php实例_脚本之家 - 360极速浏览器||[ALT]C
+2017-06-07 01:10:39||10900||wps.exe||文档1 * - WPS 文字||[Enter][ALT]V[Del][Del][Del][Numpad3][Decimal][Numpad1][Del][Del][Del]YOUDIAN [Del][Del]YOUDIAN [Numpad1][Decimal][Del][Del][Del][ALT]Z[Del][Del][Del][Del].[Del][Decimal]Left[Del]
+2017-06-07 01:11:47||6268||QQ.exe||青青草原等2个会话||BUS 
+2017-06-07 01:11:53||10900||wps.exe||文档1 * - WPS 文字||[ALT]C
+2017-06-07 01:11:55||6268||QQ.exe||青青草原等2个会话||[ALT]V[Enter]
+2017-06-07 01:12:12||10900||wps.exe||文档1 * - WPS 文字||[Enter][Numpad4][Decimal][CAP]B/S[CAP]JIAG [Enter][Del][ALT]V[ALT]Z
+2017-06-07 01:13:17||6460||360chrome.exe||新标签页 - 360极速浏览器||B/S[Enter][Enter][ALT]C
+2017-06-07 01:13:53||10900||wps.exe||文档1 * - WPS 文字||[ALT]V
+2017-06-07 01:14:05||6460||360chrome.exe||C/S和B/S两种架构区别与优缺点分析_php实例_脚本之家 - 360极速浏览器||[ALT]C
+2017-06-07 01:14:10||10900||wps.exe||文档1 * - WPS 文字||[ALT]V[Del].[Del],[Del]YEJIUS [Del]BA2
+2017-06-07 01:14:49||6460||360chrome.exe||C/S和B/S两种架构区别与优缺点分析_php实例_脚本之家 - 360极速浏览器||[ALT]C
+2017-06-07 01:14:52||10900||wps.exe||文档1 * - WPS 文字||[Enter][ALT]VYOUD [Numpad1][Decimal][Del][Del][Del][Numpad2][Decimal][Del][Del][Numpad3][Decimal]LeftLeft[Del][shift]//[Del][Del][Enter][Del][Del][Del][Del][Del]BUXUY[Del][Del][Del][shift][Del][Del]BUXUY ZHIXUY [Del][Del]JIU KEYI L RightRight[Del][Del][Del][Del]LeftLeftLeftBUXUY [Del][Del][Del][ALT]Z[ALT]Z[ALT]Z
+2017-06-07 01:17:06||6268||QQ.exe||青青草原等2个会话||[ALT]C
+2017-06-07 01:17:10||10900||wps.exe||文档1 * - WPS 文字||[ALT]V
+2017-06-07 01:17:19||2672||wpp.exe||答辩.pptx - WPS 演示||[ALT]C
+2017-06-07 01:17:22||10900||wps.exe||文档1 * - WPS 文字||[ALT]V[ALT]C
+2017-06-07 01:17:38||6460||360chrome.exe||b/s_百度搜索 - 360极速浏览器||[ALT]V[ALT]C
+2017-06-07 01:18:21||10900||wps.exe||文档1 * - WPS 文字||[ALT]V[ALT]X[ALT]VI[Del]JIUS [Del],ZHY [Del][Del][Del]
+2017-06-07 01:18:56||6268||QQ.exe||青青草原等2个会话||[Rshift]/[Enter]
+2017-06-07 01:19:03||10900||wps.exe||文档1 * - WPS 文字||[Del][ALT]C
+2017-06-07 01:19:13||6460||360chrome.exe||响应式布局_百度百科 - 360极速浏览器||[ALT]V[ALT]V[ALT]X[ALT]V
+2017-06-07 01:19:56||6268||QQ.exe||青青草原等2个会话||YINW RUG ZHIJ FASONGDAO DUIL D HUA TAS2MEIJILU++++-4 YIGE J[Del][Del]CI JIANPANSHIJ JIU FASONGYICI ,JILUCHUL D SHI YIDUIZIM ,BINGBUN KANCHUL TAYLeft[Del][Del]Right[Del]JILU D NEIR XIANGY BIAODASHENM ,JIL D NEIR MEIY SHENM YIYI LeftLeftLeftLeftLeftLeftLeftLeftLeftXIAL RightRightRightRightRightRightRightRightRightRightRightRightRightRight.RUG CAIYONG DUIL D HUA ,TA[Del][Del]YONGHU MEI [Del][Del][Del]DIANN YONGHU MEI2QIEHUAN YICI CHUANGK ,JIANPANJIL XIT LeftLeft[Del][Del][Del][Del]GAI RightRightSHANGC YICI SHUJU ,KEYI HENFANGB D KANCHU YONGHU JIL D [Del][Del][Del][Del][Del]JIL D NEIR XIANGY BIAODA D HANYI [Enter]FASONGD SHUJUK [Enter][Rshift]/[Enter]WHAT[Enter][Rshift]/[Enter][Enter]LIAOLE ,DANS MEIW2XINGH ,,,[Enter]NIY3SHENM ZHONGDA TUP [Rshift]/[Enter]DUIMA [Rshift]/[Enter]JIU SHUO M[Del]S MEIZI X DUOSHOU ,RANH WENNI Y[Del][Del][Del]WOS2WOJID TA[Del][Del]NI YOU GENW TIDAOH[Del]G2YIK SHENM XIANGJI ,,,TWEN+ MEIZI WEIS Y[Del]Y3XIANGJI ,,,WOS YW MEIZIX[Del] X LeftSHUJ [Del][Del]SHUJ3RightCHUQ WA [Del]WN[Del]ANYIBO ...[Enter] RH TAS NA TA DAOSHIH GEI MEIZI FA [Del]FENX [Del][Del]FENX2,,,[Enter]RH ,,,BINGMEIY XIAW3..[Enter]NASHISHA ...[Enter][Del]RUG WANGL YOU YANSHI[Del]I3,XITONG HUI KASI [Del][Del][Del]YUNX [Del][Del]HUI KAJI ...[Enter]...[Enter]NI KENGW ...[Enter]SUOYI CAIYONG XIA[Del][Del][Del]SHCHZ -XIAOFZ MOX SHIYINW PA WANGL YOU YANSHI [Rshift]/[Enter]NA W JIESHI D NAYIDADUO2SHI ZHENDUI NAYIGE D [Rshift]/[Enter]BENL XQ5KUAIGUO SHENGRI L S YW ...WOX KK D [Del]D [Enter]    DANS YO[Del][Del]WOWEN YOU2T5ZHIJIE L ...LeftLeftLeftLeftLeftLeftLeftLeftGJ [Enter][Enter]RH RN BANGWOW3...[Enter]   NANGUAI TA JINT [Del][Del][Del][Del][Del]NANGUAI TA JINT YIZ [Del][Del]YIZHI CHAOX2W ...[Enter]DANS HOUL GAIZHUYI L ...[Enter]  NANS BU[Del][Del]YAO QIONGYANG ,BUGEITA L [Enter]QIONGY5[Enter]EE [Enter]JID [Rshift]/[Enter][Escape]....[Enter]    DAKENGH ....[Enter]...[Enter]QIU FG ...[Enter]  WOMEIM2...SHUOL HAOGANGA ...[Del][Del][Del][Del][Del][Del][Del][Del][Del][Del][Del][Del][Del][Del][Del][Del][Del]WO BINGBUDAS GEI TA MAIL ...[Enter]GA[Del][Del]OK [Enter]DUOIE TIANBANX[Del]Z GAOTAIGUIS ,,,[Enter]EE [Enter][Enter][Enter]WOYE YAO SHUN YIB WOD PPT [Enter]L [Enter]MINGT DABIAN LeftLeftLeftLeftLeftZHUNB RightRightD [Enter]
+2017-06-07 01:36:17||10900||wps.exe||文档1 * - WPS 文字||[Del][ALT]X
+2017-06-07 01:37:30||1276||à||新建文本文档.txt - 记事本||[ALT]V[ALT]A[ALT]X
+2017-06-07 01:37:36||10900||wps.exe||文档1 * - WPS 文字||[ALT]V[ALT]Z[Enter][Enter][Enter][Enter]
+2017-06-07 01:38:23||6268||QQ.exe||｛田彬｝等2个会话||[Enter][Escape]
+2017-06-07 01:38:28||10900||wps.exe||文档1 * - WPS 文字||[Enter][Enter][Numpad6][Decimal]CAIYONG DUIL 
+2017-06-07 01:38:49||6268||QQ.exe||青青草原||[ALT]C
+2017-06-07 01:38:51||1276||à||新建文本文档.txt - 记事本||[ALT][ALT]V
+2017-06-07 01:38:55||6268||QQ.exe||青青草原||[ALT]C
+2017-06-07 01:38:59||1276||à||新建文本文档.txt - 记事本||,[ALT][ALT]V
+2017-06-07 01:39:13||6268||QQ.exe||青青草原||[ALT]C
+2017-06-07 01:39:14||1276||à||新建文本文档.txt - 记事本||[ALT]V
+2017-06-07 01:39:18||6268||QQ.exe||青青草原||[ALT]C
+2017-06-07 01:39:27||1276||à||新建文本文档.txt - 记事本||[ALT]VWEILE JIEJUE ZHEGE WENTI SUOYI JIL [Del][Del]JILU D S[Del]SHUJU [Del][Del][Del]SHI YINW [Del][Del][Del]S YW [Del][ALT]X
+2017-06-07 01:40:48||10900||wps.exe||文档1 * - WPS 文字||[ALT][Enter][Del][ALT]V[ALT]S[Del]DAB ZIL [Enter]
+2017-06-07 01:43:36||6460||360chrome.exe||键盘记录及防范技术研究 - 豆丁网 - 360极速浏览器||[ALT][Lmenu]A
+2017-06-07 01:43:53||10900||wps.exe||答辩资料.docx - WPS 文字||[Enter][Enter][ALT]V
+2017-06-07 01:44:18||6460||360chrome.exe||键盘记录及防范技术研究 - 豆丁网 - 360极速浏览器||[Lmenu][ALT]A
+2017-06-07 01:44:38||10900||wps.exe||答辩资料.docx * - WPS 文字||[Enter][ALT]V
+2017-06-07 01:44:52||6460||360chrome.exe||键盘记录及防范技术研究 - 豆丁网 - 360极速浏览器||[ALT][Lmenu]A
+2017-06-07 01:45:09||10900||wps.exe||答辩资料.docx * - WPS 文字||[Enter][ALT]V[ALT]Z[ALT]Z[ALT]Z[ALT][ALT]Z[Enter][Enter][Enter][Enter][Enter][Enter]
+2017-06-07 01:45:47||6460||360chrome.exe||键盘记录及防范技术研究 - 豆丁网 - 360极速浏览器||[ALT][Lmenu]A
+2017-06-07 01:45:53||10900||wps.exe||答辩资料.docx * - WPS 文字||[ALT]V
+2017-06-07 01:46:00||6460||360chrome.exe||键盘记录及防范技术研究 - 豆丁网 - 360极速浏览器||[Lmenu][ALT]A
+2017-06-07 01:46:09||10900||wps.exe||答辩资料.docx * - WPS 文字||[Enter][ALT]V
+2017-06-07 01:46:15||6460||360chrome.exe||键盘记录及防范技术研究 - 豆丁网 - 360极速浏览器||[ALT][Lmenu]A
+2017-06-07 01:46:28||10900||wps.exe||答辩资料.docx * - WPS 文字||[Enter][ALT]V
+2017-06-07 01:47:19||6460||360chrome.exe||键盘记录及防范技术研究 - 豆丁网 - 360极速浏览器||[ALT][ALT][ALT][ALT][ALT][Lmenu]A
+2017-06-07 01:48:06||10900||wps.exe||答辩资料.docx * - WPS 文字||[Del][ALT]V[Del]
+2017-06-07 01:48:17||6460||360chrome.exe||键盘记录及防范技术研究 - 豆丁网 - 360极速浏览器||[Lmenu][ALT]A
+2017-06-07 01:48:30||10900||wps.exe||答辩资料.docx * - WPS 文字||[ALT]V[Del]
+2017-06-07 01:48:44||6460||360chrome.exe||键盘记录及防范技术研究 - 豆丁网 - 360极速浏览器||[ALT][Lmenu]A
+2017-06-07 01:49:14||10900||wps.exe||答辩资料.docx * - WPS 文字||[ALT]V[Del][Del]
+2017-06-07 01:49:24||6460||360chrome.exe||键盘记录及防范技术研究 - 豆丁网 - 360极速浏览器||[Lmenu][ALT]A
+2017-06-07 01:49:46||10900||wps.exe||答辩资料.docx * - WPS 文字||[ALT]V
+2017-06-07 01:49:53||6460||360chrome.exe||键盘记录及防范技术研究 - 豆丁网 - 360极速浏览器||[ALT][Lmenu]A
+2017-06-07 01:50:18||10900||wps.exe||答辩资料.docx * - WPS 文字||[Enter][ALT]V[Del]
+2017-06-07 01:50:36||6460||360chrome.exe||键盘记录及防范技术研究 - 豆丁网 - 360极速浏览器||[Lmenu][ALT]A
+2017-06-07 01:50:57||10900||wps.exe||答辩资料.docx * - WPS 文字||[ALT]Z[ALT]Z[ALT]Z[ALT]Z[Del]
+2017-06-07 01:51:15||6460||360chrome.exe||键盘记录及防范技术研究 - 豆丁网 - 360极速浏览器||[ALT][Lmenu]A
+2017-06-07 01:51:25||10900||wps.exe||答辩资料.docx * - WPS 文字||[Enter][ALT]V[ALT]X[Enter][ALT]V[Enter]DICENGJIANPANXIAOXIGOUZI [Del]\[Del][Enter]JIAZAI JIANPAN GUOLB+4 [Del]QUDONG [Lmenu][ALT]A[Del][Del][ALT]V
+2017-06-07 01:53:00||6460||360chrome.exe||键盘记录及防范技术研究 - 豆丁网 - 360极速浏览器||[ALT][ALT][Lmenu]A
+2017-06-07 01:53:12||10900||wps.exe||答辩资料.docx * - WPS 文字||[ALT]V
+2017-06-07 01:53:20||6460||360chrome.exe||键盘记录及防范技术研究 - 豆丁网 - 360极速浏览器||[ALT][Lmenu]A
+2017-06-07 01:53:48||10900||wps.exe||答辩资料.docx * - WPS 文字||[Del][ALT]VDeleteDeleteDeleteDeleteDelete[ALT]S
+2017-06-07 01:54:43||6268||QQ.exe||｛田彬｝等2个会话||[Escape][Escape]
+2017-06-07 02:07:53||8540||360chrome.exe||天猫tmall.com--理想生活上天猫 - 360极速浏览器||ZHUCHUNG[Del][Del][Del]UANG2LeftLeftLeft[Del][Del][Enter][Del][Del][Del]JIANYI CHUANG[ALT][Lmenu]A[ALT][Lmenu]A[ALT][Lmenu]A[ALT][Lmenu]A
+2017-06-07 02:11:20||3676||QQ.exe||{妹子}等2个会话||[ALT]V[Enter]MEIZI ,ZANM DAOSHIH EYI[Del][Del][Del]KEYI MAI ZHEZ CU[Del]HUANG [Enter]
+2017-06-07 02:13:39||8540||360chrome.exe||简易床-天猫Tmall.com-理想生活上天猫 - 360极速浏览器||[Lmenu][ALT]A
+2017-06-07 02:13:45||3676||QQ.exe||{妹子}等2个会话||[ALT]V[Enter]RANH ZANM ZIJI YOU CHUANGD [Enter]WQ OK [Enter][Escape][Escape]WODEI X [Del][Del]XIAN SUIJJ LA [shift]``[Enter]XQGG GANJ [Del][Del]GANJIN SUIJJ O [shift]``[Enter]   WANAN LO [shift]```MD[Del]MD [shift]```
+

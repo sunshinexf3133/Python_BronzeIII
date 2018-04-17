@@ -1,0 +1,7 @@
+#coding:utf-8
+#？Python有没有和java类似的访问权限修饰符，如public，private之类的
+
+##!http://blog.sina.com.cn/s/blog_bb48e6be0102wbgd.html
+
+Python中没有这样特定的类似Java的[private、protected、public]这样的关键字
+

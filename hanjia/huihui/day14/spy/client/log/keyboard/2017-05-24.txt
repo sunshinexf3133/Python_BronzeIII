@@ -1,0 +1,15 @@
+localTime            PID              executable            windowName                  keys
+2017-05-24 16:33:20||6604||wps.exe||文档1 - WPS 文字||[ALT]V[ALT]SRight[Del][Del][Del][Del][Del][Del][Del][Del][Del][Del]LIUCHENGTU LeftLeftLeftLeftLeftBIY[Del]SHE [Enter][ALT]S
+2017-05-24 16:36:06||5524||360chrome.exe||新标签页 - 360极速浏览器||[Numpad1][Numpad2][Numpad3]SUNSHINE[shift][Enter][Numpad9][Numpad9][Numpad6][Numpad3][Numpad1][Numpad5]SUNSHINE
+2017-05-24 16:36:58||9700||QQ.exe||QQ||[Numpad1][Numpad8][Numpad2][Numpad9][Numpad9][Numpad1][Numpad1][Numpad0][Numpad2][Numpad2]
+2017-05-24 16:37:06||18616||QQ.exe||QQEdit||[Del]VCNH9251652L6ZD
+2017-05-24 16:37:44||11336||QQ.exe||QQEdit||[Del][Del][Del][Del][Del][Del][Numpad8][Numpad9]P[Numpad6][Numpad3][Numpad1][Numpad0]FX
+2017-05-24 16:38:35||5524||360chrome.exe||键盘记录系统 - 360极速浏览器||[ALT]A[ALT]A
+2017-05-24 16:39:27||6604||wps.exe||西安邮电大学毕业设计_徐菲v1.4.docx - WPS 文字||[Del][Del][Del][Del][Del][Del][Del][Del][Del].[Del].[ALT]Z[ALT]Z[ALT]Z[ALT]ZRight[Del][Del][Numpad8] [Del][Numpad9] [Del][Del][Numpad1][Numpad0][Del][Numpad1][Numpad0][Del][Numpad9][Del][Numpad8][Enter][Del][Enter][ALT]V[Enter]                   [ALT]C[ALT]VANZ [Del][Del]ANZHAO SHIJIAN [Del][Del]RU[Del]IQ CHAY SHUJU [Enter][Del][Numpad6] [Enter]
+2017-05-24 16:41:55||5524||360chrome.exe||键盘记录系统 - 360极速浏览器||[ALT]A
+2017-05-24 16:42:11||6604||wps.exe||西安邮电大学毕业设计_徐菲v1.4.docx * - WPS 文字||[Del][ALT]V[Del][Del]RightRight[Del][Del]RightRight[Numpad2][Numpad0][Numpad1][Numpad7]NIAN [Del][Del][Del][Del][Del][ALT]Z[ALT]Z[ALT]Z[ALT]Z[ALT]Z[ALT]Z[Enter]
+2017-05-24 16:42:48||5524||360chrome.exe||键盘记录系统 - 360极速浏览器||[ALT]A
+2017-05-24 16:43:06||6604||wps.exe||西安邮电大学毕业设计_徐菲v1.4.docx * - WPS 文字||[ALT]V[Del]
+2017-05-24 16:43:12||5524||360chrome.exe||键盘记录系统 - 360极速浏览器||[ALT]A
+2017-05-24 16:43:29||6604||wps.exe||西安邮电大学毕业设计_徐菲v1.4.docx * - WPS 文字||[ALT]V[ALT]C[Enter][ALT]V[Del][Del][Del]                        [Del][Del][Del][Del]Left[Del]7[Del][Del]NEIR [Del][Del]YINGYCHX [Del][Del][Del][Del]CHAYUE TED [ALT]S[Del][Numpad6][Del][Numpad7][ALT]S[ALT]S[Del][Del][Del][Del][Del][Del][Del][Del][Del][Del] [Del] [Del] [ALT]S[ALT]X[ALT]V[Del][ALT]X[ALT]V[Del][Del]NEIR [Del][Del]4[ALT]S[Del][Del][Del][Del][Del][ALT]S[Enter][Enter][Enter][ALT]S[Del][Del][Del][Del][Del][Del][Del][Del][Del][Del][Del][Del][Del][Del][Del][Del][Del][Del][Del][Del][Del][Del][Del][Del][Del][Del][Del][Del][Del][Del][Del][Del][Enter][Enter][Enter][Enter][Enter][Enter][Enter][Enter][Enter][Enter][Enter][Enter][Enter][Del][Del][Tab][Tab][Tab][Tab][Tab][Tab][Tab][Enter][Enter][Enter][Enter][Enter][Enter][Enter][Enter][Enter][Enter][Enter][Enter][Enter][Enter][Enter][Enter][Tab][Tab][Tab][Tab][Tab][Tab][Tab][ALT]S[Del][Del][Enter][ALT]S[ALT]S[ALT]S
+

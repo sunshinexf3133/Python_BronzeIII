@@ -1,0 +1,15 @@
+# coding:utf-8
+
+
+# 用户身份识别码
+TOKEN = "5daaa44f5bf0daa7f2de381ff08cfe8b"
+
+# 队列最大长度
+MAX_QUEUE = 100
+
+
+# 数据提交接口
+SEND_PORT = "http://123.207.93.174:12345/sendData"
+
+# 本地日志路径
+LOG_PATH = "./log/keyboard/"

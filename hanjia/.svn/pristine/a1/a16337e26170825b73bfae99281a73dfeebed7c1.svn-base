@@ -1,0 +1,7 @@
+#coding:utf-8
+#正则表达式
+#funny.py
+
+import re
+def is_funny(s) :
+    return re.match('(ha)+!+',s) != None

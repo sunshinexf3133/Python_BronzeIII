@@ -1,0 +1,14 @@
+localTime            PID              executable            windowName                  keys
+2017-04-05 10:35:33||21672||putty.exe||123.207.93.174 - PuTTY||[shift]ABC98765[Enter]CD
+2017-04-05 10:40:59||12936||txupd.exe||QQ更新|| 
+2017-04-05 10:46:24||29384||QQ.exe||None|| 
+2017-04-05 10:46:24||21672||putty.exe||123.207.93.174 - PuTTY|| 0.0.0.0[Rshift]:80[Enter]
+2017-04-05 10:49:24||5636||360chrome.exe||新标签页 - 360极速浏览器||[Numpad1][Numpad2][Numpad3][Decimal][Enter]
+2017-04-05 10:50:13||29384||QQ.exe||懒羊羊哥哥等2个会话||Z [Rshift]/[Enter][ALT][Lmenu]A[Enter]....[Enter]NIMEI2KAN ZHE[Del][Del][Del][Del]BANGW KAN ZHEGE [Rshift]/[Enter]O ...[Enter]///[Enter]XKL2...[Enter]XW //[Del][Del]...[Enter]EE ...[Enter][Escape]LeftLeftLeftLeftRightRightRightRightRightRightRightRightRightRightRightRightRightLeftRightRightRightRightRightRightRightRightRightRightRightRightRightRightRightRightRightRightRightRightRightRightRightRightRightRightRightRightRightRightRightRightRightRightRightRightRightRightRightRightRightRightRightRightRightRightRightRightRightRightRightRightRightRightRightRightRightRightRightRightRightRightRightRightRightRightRightRightRightRightRightRightRightRightRightRightRightRightRightRightRightLeftLeft[Escape]
+2017-04-05 19:36:56||1076||360chrome.exe||新标签页 - 360极速浏览器||TEST[Enter]
+2017-04-05 19:37:00||29384||QQ.exe||青青草原||TEST[Enter]1
+2017-04-05 19:41:29||35004||pycharm.exe||spy - [F:\PythonWorkSpace\hanjia\huihui\day14\spy] - ...\client\KeySpy.py - PyCharm 5.0.3||UpUpUpUpUpUpUpUpUpUpUpUpUpUpUpUpUpUpUpUpUpDownDownDownDownDownDownDownDownDownDownDownDownDownDownDownDownDownDownDownDownDownDownDownDownDownDownDownDownDownDownDownDownDownDownDownDownDownDownDownDownDown
+2017-04-05 19:43:48||1076||360chrome.exe||新标签页 - 360极速浏览器||[Del][Del][Del][Del][Del]TEST[Enter]111333
+2017-04-05 19:45:02||29384||QQ.exe||青青草原||[Del][Del][Del][Escape]R[Del]TEST[Enter]222
+2017-04-05 19:49:01||1076||360chrome.exe||新标签页 - 360极速浏览器||[Numpad2][Numpad2][Numpad2]
+

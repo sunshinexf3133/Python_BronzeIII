@@ -1,0 +1,38 @@
+# coding:utf-8
+import threading
+import requests
+import time
+import Queue
+import config
+
+
+class Senders(threading.Thread):
+    def __init__(self, queue):
+        threading.Thread.__init__(self)
+        self.queue = queue
+        self.data_file_path = config.LOG_PATH
+        self.url = config.SEND_PORT
+
+    def run(self):
+        while True:
+            while not self.queue.empty():
+                res = ""
+                data = self.queue.get()
+                try:
+                    data["token"] = config.TOKEN
+                    res = requests.post(self.url, data=data).text
+                except:
+                    pass
+                print res
+            time.sleep(3)
+
+if __name__ == "__main__":
+    q = Queue.Queue(100)
+    s = Senders(q)
+    q.put({"time": time.strftime('%Y-%m-%d %H:%M:%S', time.localtime()),
+           "proces_id": "1",
+           "executable": "xxx.exe",
+           "windowName": "123",
+           "text": "hello"
+           })
+    s.start()

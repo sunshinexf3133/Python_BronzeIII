@@ -1,0 +1,8 @@
+#coding:utf-8
+
+a = raw_input('Please enter a number :')
+a = int(a)
+if a >= 100 :
+    print a
+else :
+    print -a

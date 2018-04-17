@@ -1,0 +1,26 @@
+localTime            PID              executable            windowName                  keys
+2017-05-15 16:30:37||4912||putty.exe||123.207.93.174 - PuTTY||[ALT]CUp[Enter]
+2017-05-15 16:32:49||14444||360chrome.exe||您访问的网页出错了！ - 360极速浏览器||[Del][Del]
+2017-05-15 16:32:49||14444||360chrome.exe||您访问的网页出错了！ - 360极速浏览器||[Del][Del]
+2017-05-15 16:33:10||3936||QQ.exe||蝴蝶结先生||ZAIMA [Rshift]/[Enter]     WO D WANGYE W[Del][Del][Del][Del]D WANGY FANGW BULL4....[Enter]  WOSHANGCI CESHI KEYI ,R[Del]JIUSHI ZHUCE S[Del]D SHHI[Del] GAIGUO YIGE 
+2017-05-15 16:39:12||16344||pycharm.exe||spy - [F:\PythonWorkSpace\hanjia\huihui\day14\spy] - ...\client\config.py - PyCharm 5.0.3||[Lmenu][ALT]A
+2017-05-15 16:39:16||3936||QQ.exe||蝴蝶结先生||[ALT]V[Enter]ZH[Del][Del]YONGHU SHENF SHIBIE MA [Enter][Lmenu][ALT]A[Enter]ZHIQ DOU OK ZHEYIC JIU[Del][Del][Del]DOU BU OK L [Enter]
+2017-05-15 16:40:06||4912||putty.exe||123.207.93.174 - PuTTY||[Lmenu][ALT]A
+2017-05-15 16:41:00||3936||QQ.exe||蝴蝶结先生||[ALT]V[Enter]SHANGM SHI GG FANGW SHI T2GEI D SHEM TIS ..[Enter]   RH ...WO YOU2CHONGX RUNSERVER[Enter][Enter]  M[Del]MEIFANY ..[Enter]
+2017-05-15 16:43:46||14444||360chrome.exe||您访问的网页出错了！ - 360极速浏览器||HomeHTTP[Rshift]://[Enter]
+2017-05-15 16:44:11||4912||putty.exe||123.207.93.174 - PuTTY||[ALT]CUp
+2017-05-15 16:44:18||3936||QQ.exe||蝴蝶结先生||////[Enter]   
+2017-05-15 16:44:27||14444||360chrome.exe||您访问的网页出错了！ - 360极速浏览器||[Lmenu][ALT]A
+2017-05-15 16:44:31||3936||QQ.exe||蝴蝶结先生||[ALT]V[Enter]
+2017-05-15 16:47:15||14444||360chrome.exe||您访问的网页出错了！ - 360极速浏览器||[Del][Rshift]:[Enter]
+2017-05-15 16:47:33||3936||QQ.exe||蝴蝶结先生||[Numpad8][Numpad0][Numpad0][Numpad0]MA [Rshift]/[Enter]
+2017-05-15 16:47:43||4912||putty.exe||123.207.93.174 - PuTTY||[ALT]CUp[Numpad0][Numpad0][Del][Del][Del][Del][Numpad1][Numpad2][Numpad3][Numpad4][Numpad5][Enter]
+2017-05-15 16:47:59||3936||QQ.exe||蝴蝶结先生||WOK2///[Enter]  ZHIQ[Rmenu]YZ[Del]YIZ DOU SHU [Numpad8][Numpad0]MEIY WENTI YA ...[Numpad0][Decimal][Numpad0][Decimal][Numpad0][Decimal][Numpad0][Rshift]:[Enter]
+2017-05-15 16:48:42||14444||360chrome.exe||您访问的网页出错了！ - 360极速浏览器||[Enter][Lmenu][ALT]A
+2017-05-15 16:48:55||3936||QQ.exe||蝴蝶结先生||[ALT]V[Enter]XIANZ MEIY[Del]C GG KAIS FANGW DOUS ZHEGE JIEM [Del][Del]JIEMINA MA [Rshift]/[Enter]
+2017-05-15 16:49:16||14444||360chrome.exe||登录 - 360极速浏览器||SUNSHINE[Numpad9][Numpad9][Numpad6][Numpad3][Numpad1][Numpad5]SUNSHINE
+2017-05-15 16:50:00||3936||QQ.exe||蝴蝶结先生||OK L [Enter]WOIANQ ZHAO [Del]JIANC [Enter]   HUAC[Del]S2LeftLeftYBY CHI RightRight[Rshift]/[Enter]
+2017-05-15 16:50:48||14444||360chrome.exe||注册 - 360极速浏览器||TEST1[Numpad1][Numpad2][Numpad3][Numpad4][Numpad5][Del][Del][Del][Del][Del]ABC[Numpad9][Numpad8][Numpad7][Numpad6][Numpad5]ABC[Numpad9][Numpad8][Numpad7][Numpad6][Numpad5][Del][Rshift]-ONETEST[Rshift]-ONEABC[Numpad9][Numpad8][Numpad7][Numpad6][Numpad5]
+2017-05-15 16:51:45||3936||QQ.exe||蝴蝶结先生||[Escape]
+2017-05-15 17:00:18||14444||360chrome.exe||登录 - 360极速浏览器||SUNSHINE[Numpad9][Numpad9][Numpad6][Numpad3][Numpad1][Numpad5]SUNSHINE
+

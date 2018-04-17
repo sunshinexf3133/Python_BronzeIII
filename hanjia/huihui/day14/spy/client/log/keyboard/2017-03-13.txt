@@ -1,0 +1,151 @@
+localTime            PID              executable            windowName                  keys
+2017-03-13 15:48:01||35836||python.exe||D:\python2.7\python.exe||[ALT][Lmenu]A
+2017-03-13 15:48:07||10336||QQ.exe||青青草原||[ALT]V[Enter]
+2017-03-13 15:48:13||35836||python.exe||D:\python2.7\python.exe||[Lmenu][ALT]A
+2017-03-13 15:48:17||10336||QQ.exe||青青草原||[ALT]V[Enter]
+2017-03-13 15:48:20||35836||python.exe||D:\python2.7\python.exe||LLLLLL[Enter][shift]SSLSJJJJA:AA
+2017-03-13 15:48:28||10336||QQ.exe||青青草原||HAHAHHAHAH 
+2017-03-13 15:48:41||5304||360chrome.exe||键盘记录系统 - 360极速浏览器||[Lmenu][ALT]A
+2017-03-13 15:48:50||10336||QQ.exe||青青草原||[ALT]V[Enter]B[Del]NA QIBUS ZANM LG D JIANP JIL Z YIKUAI HUNZHENE [Enter]HDIWHFIEWFBIWEFIFWE[Enter][Del]NI 484SA[Enter][Enter]SHADOUMEIYL [Enter]
+2017-03-13 15:50:10||5304||360chrome.exe||键盘记录系统 - 360极速浏览器||[ALT][Lmenu]A
+2017-03-13 15:50:15||10336||QQ.exe||青青草原||[ALT]V[Enter]O HEHEDA [Del]MAOS WOYU[Del][Del]YUNX L YE MEISHA NUANYHomeRight[Del]:[Del][Del]YONG [Enter]
+2017-03-13 15:51:29||5304||360chrome.exe||键盘记录系统 - 360极速浏览器||[Lmenu][ALT]A
+2017-03-13 15:51:32||10336||QQ.exe||青青草原||[ALT]V[Enter]MEIY JIL W D SHUR [Del]RU 'Left[Enter]SHUR [Enter][Del][Del]SHURU2[Enter]
+2017-03-13 15:52:23||5304||360chrome.exe||键盘记录系统 - 360极速浏览器||[Lmenu][ALT]A
+2017-03-13 15:52:27||10336||QQ.exe||青青草原||[ALT]V[Enter]WOGANGC SHUR  D NX2TA MEIY JIL XIAL [Enter]
+2017-03-13 15:52:45||5304||360chrome.exe||sublime text3 怎么编辑远程文件夹_百度知道 - 360极速浏览器||[Del][Del]
+2017-03-13 15:53:00||10336||QQ.exe||青青草原||ZHESHI A[Enter]CHUANGK [Enter]
+2017-03-13 15:53:10||5304||360chrome.exe||sublime text3 怎么编辑远程文件夹_百度知道 - 360极速浏览器||ZHESHI B[Enter]CHUANGK [Lmenu][ALT]A
+2017-03-13 15:53:58||10336||QQ.exe||青青草原||JILU D BUQUAN A[Del]EI [Enter]WO MINGMING DALE YIDUIZI [Enter]TAQUE SHI[Del][Del][Del]ZHI JILU E YIDIANL[Del]DIAN [Enter]
+2017-03-13 15:53:58||10336||QQ.exe||青青草原||JILU D BUQUAN A[Del]EI [Enter]WO MINGMING DALE YIDUIZI [Enter]TAQUE SHI[Del][Del][Del]ZHI JILU E YIDIANL[Del]DIAN [Enter]
+2017-03-13 15:53:30||10336||QQ.exe||青青草原||[ALT]V[Enter]JILU D BUQUAN A[Del]EI [Enter]WO MINGMING DALE YIDUIZI [Enter]TAQUE SHI[Del][Del][Del]ZHI JILU E YIDIANL[Del]DIAN [Enter]
+2017-03-13 15:54:40||5304||360chrome.exe||360导航_新一代安全上网导航 - 360极速浏览器||[Del][Del][Del][Del][Del]ZHESHIYIGE CHE[Del][Del]EHI[Del][Del]SHI [Lmenu][ALT]A
+2017-03-13 15:54:40||5304||360chrome.exe||360导航_新一代安全上网导航 - 360极速浏览器||[Del][Del][Del][Del][Del]ZHESHIYIGE CHE[Del][Del]EHI[Del][Del]SHI [Lmenu][ALT]A
+2017-03-13 15:54:40||5304||360chrome.exe||360导航_新一代安全上网导航 - 360极速浏览器||[Del][Del][Del][Del][Del]ZHESHIYIGE CHE[Del][Del]EHI[Del][Del]SHI [Lmenu][ALT]A
+2017-03-13 15:55:13||10336||QQ.exe||青青草原||[shift]THIS IS A TEST [shift]A
+2017-03-13 15:55:13||10336||QQ.exe||青青草原||[shift]THIS IS A TEST [shift]A
+2017-03-13 15:55:13||10336||QQ.exe||青青草原||[shift]THIS IS A TEST [shift]A
+2017-03-13 15:55:28||5304||360chrome.exe||360导航_新一代安全上网导航 - 360极速浏览器||[Del]THIS [Del][Del][Del][shift][Del]THIS IS A TEST [Rshift]B[ALT][Lmenu]A
+2017-03-13 15:55:28||5304||360chrome.exe||360导航_新一代安全上网导航 - 360极速浏览器||[Del]THIS [Del][Del][Del][shift][Del]THIS IS A TEST [Rshift]B[ALT][Lmenu]A
+2017-03-13 15:55:28||5304||360chrome.exe||360导航_新一代安全上网导航 - 360极速浏览器||[Del]THIS [Del][Del][Del][shift][Del]THIS IS A TEST [Rshift]B[ALT][Lmenu]A
+2017-03-13 15:55:58||10336||QQ.exe||青青草原||[ALT]V[Enter][shift][ALT][shift][ALT][shift][ALT][shift][ALT]THIS[Del][Del][Del][Del][Del][shift][shift][ALT][shift]THIS I [Del]S A TEST 
+2017-03-13 15:55:58||10336||QQ.exe||青青草原||[ALT]V[Enter][shift][ALT][shift][ALT][shift][ALT][shift][ALT]THIS[Del][Del][Del][Del][Del][shift][shift][ALT][shift]THIS I [Del]S A TEST 
+2017-03-13 15:55:58||10336||QQ.exe||青青草原||[ALT]V[Enter][shift][ALT][shift][ALT][shift][ALT][shift][ALT]THIS[Del][Del][Del][Del][Del][shift][shift][ALT][shift]THIS I [Del]S A TEST 
+2017-03-13 15:56:31||5304||360chrome.exe||360导航_新一代安全上网导航 - 360极速浏览器||THIS[shift] IS[ALT][Lmenu]A
+2017-03-13 15:56:31||5304||360chrome.exe||360导航_新一代安全上网导航 - 360极速浏览器||THIS[shift] IS[ALT][Lmenu]A
+2017-03-13 15:56:31||5304||360chrome.exe||360导航_新一代安全上网导航 - 360极速浏览器||THIS[shift] IS[ALT][Lmenu]A
+2017-03-13 15:56:48||10336||QQ.exe||青青草原||[ALT]V[Enter]THIS IS A TEST 1HAO[Enter]
+2017-03-13 15:56:48||10336||QQ.exe||青青草原||[ALT]V[Enter]THIS IS A TEST 1HAO[Enter]
+2017-03-13 15:56:48||10336||QQ.exe||青青草原||[ALT]V[Enter]THIS IS A TEST 1HAO[Enter]
+2017-03-13 15:57:26||5304||360chrome.exe||360导航_新一代安全上网导航 - 360极速浏览器||[Del][Del][Del][Del][Del][Del][Del][Del]THIS IS A TEST 1[Del]2HAO[Lmenu][ALT]A
+2017-03-13 15:57:26||5304||360chrome.exe||360导航_新一代安全上网导航 - 360极速浏览器||[Del][Del][Del][Del][Del][Del][Del][Del]THIS IS A TEST 1[Del]2HAO[Lmenu][ALT]A
+2017-03-13 15:57:26||5304||360chrome.exe||360导航_新一代安全上网导航 - 360极速浏览器||[Del][Del][Del][Del][Del][Del][Del][Del]THIS IS A TEST 1[Del]2HAO[Lmenu][ALT]A
+2017-03-13 15:57:56||10336||QQ.exe||青青草原||[ALT]V[Enter]BING [Del][Del][Del][Del][Del][Del][Del][shift]MEIY XA[Del]IANSH[Del][Del][Del][Del][Del][Del][shift]JIL[Del][Del][Del][shift]JIL [Enter]SHIBUS YW W D CHENGX MEIY YUNX QIL [Enter]LLQ TAYE MEIY JIL YA [Enter]ERQ NID WEIS KEYI JIL [Enter]
+2017-03-13 15:57:56||10336||QQ.exe||青青草原||[ALT]V[Enter]BING [Del][Del][Del][Del][Del][Del][Del][shift]MEIY XA[Del]IANSH[Del][Del][Del][Del][Del][Del][shift]JIL[Del][Del][Del][shift]JIL [Enter]SHIBUS YW W D CHENGX MEIY YUNX QIL [Enter]LLQ TAYE MEIY JIL YA [Enter]ERQ NID WEIS KEYI JIL [Enter]
+2017-03-13 15:57:56||10336||QQ.exe||青青草原||[ALT]V[Enter]BING [Del][Del][Del][Del][Del][Del][Del][shift]MEIY XA[Del]IANSH[Del][Del][Del][Del][Del][Del][shift]JIL[Del][Del][Del][shift]JIL [Enter]SHIBUS YW W D CHENGX MEIY YUNX QIL [Enter]LLQ TAYE MEIY JIL YA [Enter]ERQ NID WEIS KEYI JIL [Enter]
+2017-03-13 15:59:20||18300||à||新建文本文档 (2).txt - 记事本||[shift]CESHICESHICESHI
+2017-03-13 15:59:20||18300||à||新建文本文档 (2).txt - 记事本||[shift]CESHICESHICESHI
+2017-03-13 15:59:20||18300||à||新建文本文档 (2).txt - 记事本||[shift]CESHICESHICESHI
+2017-03-13 15:59:34||34836||à||新建文本文档.txt - 记事本||[ALT]A[Del]CES[Del][Del][Del][Del][shift]CESHI2CESHI2
+2017-03-13 15:59:34||34836||à||新建文本文档.txt - 记事本||[ALT]A[Del]CES[Del][Del][Del][Del][shift]CESHI2CESHI2
+2017-03-13 15:59:34||34836||à||新建文本文档.txt - 记事本||[ALT]A[Del]CES[Del][Del][Del][Del][shift]CESHI2CESHI2
+2017-03-13 15:59:50||5304||360chrome.exe||键盘记录系统 - 360极速浏览器||[ALT][Lmenu]A
+2017-03-13 15:59:50||5304||360chrome.exe||键盘记录系统 - 360极速浏览器||[ALT][Lmenu]A
+2017-03-13 15:59:50||5304||360chrome.exe||键盘记录系统 - 360极速浏览器||[ALT][Lmenu]A
+2017-03-13 15:59:54||10336||QQ.exe||青青草原||[ALT]V[Enter]JISHIB TYE BUJIL [Enter]BUJILU [Enter]
+2017-03-13 15:59:54||10336||QQ.exe||青青草原||[ALT]V[Enter]JISHIB TYE BUJIL [Enter]BUJILU [Enter]
+2017-03-13 15:59:54||10336||QQ.exe||青青草原||[ALT]V[Enter]JISHIB TYE BUJIL [Enter]BUJILU [Enter]
+2017-03-13 16:00:13||33948||à||生命里有你 (D:)||[ALT][Lmenu]A
+2017-03-13 16:00:13||33948||à||生命里有你 (D:)||[ALT][Lmenu]A
+2017-03-13 16:00:13||33948||à||生命里有你 (D:)||[ALT][Lmenu]A
+2017-03-13 16:00:47||10336||QQ.exe||青青草原||[ALT]V[Enter]YAO ANZ NAYIG LAIZ [Del][Del][Rshift]/[Enter]
+2017-03-13 16:00:47||10336||QQ.exe||青青草原||[ALT]V[Enter]YAO ANZ NAYIG LAIZ [Del][Del][Rshift]/[Enter]
+2017-03-13 16:00:47||10336||QQ.exe||青青草原||[ALT]V[Enter]YAO ANZ NAYIG LAIZ [Del][Del][Rshift]/[Enter]
+2017-03-13 16:01:58||33948||à||搜索窗格||KONGZHIMIANBAN [Enter]
+2017-03-13 16:01:58||33948||à||搜索窗格||KONGZHIMIANBAN [Enter]
+2017-03-13 16:01:58||33948||à||搜索窗格||KONGZHIMIANBAN [Enter]
+2017-03-13 16:03:32||16020||baidunetdisk.exe||欢迎使用百度网盘||[Lmenu][ALT]A
+2017-03-13 16:03:32||16020||baidunetdisk.exe||欢迎使用百度网盘||[Lmenu][ALT]A
+2017-03-13 16:03:32||16020||baidunetdisk.exe||欢迎使用百度网盘||[Lmenu][ALT]A
+2017-03-13 16:03:36||10336||QQ.exe||青青草原||[ALT]V[Enter]YG2[shift][ALT]SHIZHEGE [Enter]YINW DNGH[Del][Del][Del][Del][Del][Del]
+2017-03-13 16:03:36||10336||QQ.exe||青青草原||[ALT]V[Enter]YG2[shift][ALT]SHIZHEGE [Enter]YINW DNGH[Del][Del][Del][Del][Del][Del]
+2017-03-13 16:03:36||10336||QQ.exe||青青草原||[ALT]V[Enter]YG2[shift][ALT]SHIZHEGE [Enter]YINW DNGH[Del][Del][Del][Del][Del][Del]
+2017-03-13 16:08:20||2708||pycharm.exe||PyCharm License Activation||HTTP[Del][shift]P[Rshift]://15.IDEA.LANYUS.COM/[ALT][Lmenu]A
+2017-03-13 16:08:20||2708||pycharm.exe||PyCharm License Activation||HTTP[Del][shift]P[Rshift]://15.IDEA.LANYUS.COM/[ALT][Lmenu]A
+2017-03-13 16:08:20||2708||pycharm.exe||PyCharm License Activation||HTTP[Del][shift]P[Rshift]://15.IDEA.LANYUS.COM/[ALT][Lmenu]A
+2017-03-13 16:10:01||10336||QQ.exe||青青草原||[ALT]V[Enter]BUXING L [Enter]  
+2017-03-13 16:10:01||10336||QQ.exe||青青草原||[ALT]V[Enter]BUXING L [Enter]  
+2017-03-13 16:10:01||10336||QQ.exe||青青草原||[ALT]V[Enter]BUXING L [Enter]  
+2017-03-13 16:10:11||36852||à||pycharm5破解激活教程.jpg - Windows 照片查看器||[Lmenu][ALT]A
+2017-03-13 16:10:11||36852||à||pycharm5破解激活教程.jpg - Windows 照片查看器||[Lmenu][ALT]A
+2017-03-13 16:10:11||36852||à||pycharm5破解激活教程.jpg - Windows 照片查看器||[Lmenu][ALT]A
+2017-03-13 16:12:02||34212||pythonw.exe||Python Shell||[Rshift]/OK[Enter][shift]LEMA
+2017-03-13 16:12:16||10336||QQ.exe||青青草原||CESHI[Enter]YIXIA[Enter]C[Del][Del][Del][Del][Del]THISI[Del][Enter][Del][Del][Del][Del]ZHEZHISHIYIGECESHI 1
+2017-03-13 16:12:57||18300||?||新建文本文档 (2).txt - 记事本||ZHESHILINGYIGECESHI 2
+2017-03-13 16:13:18||5304||360chrome.exe||键盘记录系统 - 360极速浏览器||[Lmenu][ALT]A
+2017-03-13 16:13:24||10336||QQ.exe||青青草原||[ALT]V[Enter][Lmenu][ALT][ALT][Lmenu]A[Enter]GG YONG ZHE [Del]ZHEGE DX YUNX LEYIX [Enter]KEYI JIL DANS
+2017-03-13 16:14:20||2708||pycharm.exe||Welcome to PyCharm||HI
+2017-03-13 16:14:50||10336||QQ.exe||青青草原||[Enter]DN[Del]ANS JIL BUQIAN [Del]QUAN [Enter]ZHINENG JIL YIXIAOBUF [Enter]
+2017-03-13 16:16:26||2708||pycharm.exe||spy - [F:\PythonWorkSpace\hanjia\huihui\day14\spy] - launcher.py - PyCharm 5.0.3||[ALT][Lmenu]A
+2017-03-13 16:16:51||10336||QQ.exe||青青草原||SVN[Enter]LIM D WEN[Del][Del][Del]DAIMA BUNENG YUNX MA [Rshift]/[Enter]
+2017-03-13 16:17:15||2708||pycharm.exe||spy - [F:\PythonWorkSpace\hanjia\huihui\day14\spy] - launcher.py - PyCharm 5.0.3||[ALT][Lmenu]A
+2017-03-13 16:19:27||10336||QQ.exe||青青草原||WOZHID L [Enter]  YW G[Del]W GG Z [Enter][ALT][Lmenu]A[Enter]ZHG LIM BA2TAM DAKAIL [Enter]
+2017-03-13 16:17:32||10336||QQ.exe||青青草原||[ALT]V[Enter]WOZHID L [Enter]  YW G[Del]W GG Z [Enter][ALT][Lmenu]A[Enter]ZHG LIM BA2TAM DAKAIL [Enter]
+2017-03-13 16:20:18||2708||pycharm.exe||spy - [F:\PythonWorkSpace\hanjia\huihui\day14\spy] - ...\client\launcher.py - PyCharm 5.0.3||CESHI CESHI CESHI[Enter][shift]SXXXXXXLLLLLL
+2017-03-13 16:20:18||2708||pycharm.exe||spy - [F:\PythonWorkSpace\hanjia\huihui\day14\spy] - ...\client\launcher.py - PyCharm 5.0.3||CESHI CESHI CESHI[Enter][shift]SXXXXXXLLLLLL
+2017-03-13 16:20:34||10336||QQ.exe||青青草原||SHA[Del][Del][Del]ZALE [shift][Del][Del][Del]SHI GANMADE [Enter]SHENMEYISI[Enter]
+2017-03-13 16:20:34||10336||QQ.exe||青青草原||SHA[Del][Del][Del]ZALE [shift][Del][Del][Del]SHI GANMADE [Enter]SHENMEYISI[Enter]
+2017-03-13 16:21:51||5304||360chrome.exe||360导航_新一代安全上网导航 - 360极速浏览器||W2[Del][CAP]W2W2W2
+2017-03-13 16:21:51||5304||360chrome.exe||360导航_新一代安全上网导航 - 360极速浏览器||W2[Del][CAP]W2W2W2
+2017-03-13 16:22:08||10336||QQ.exe||青青草原||TA[Del][Del][CAP][shift]ZHEGE WEISA ZOG SHI JIL BUQUAN [Enter]OO [Enter]WO KANDAO  L [Enter]ZAI NID C[Del]DIANN SHANGM YUNX DOU TINGHAOD [Enter]DOU XIERU  L [Enter]
+2017-03-13 16:22:08||10336||QQ.exe||青青草原||TA[Del][Del][CAP][shift]ZHEGE WEISA ZOG SHI JIL BUQUAN [Enter]OO [Enter]WO KANDAO  L [Enter]ZAI NID C[Del]DIANN SHANGM YUNX DOU TINGHAOD [Enter]DOU XIERU  L [Enter]
+2017-03-13 16:23:49||35352||à||2017-03-13.txt - 记事本||[F5][F5][F5][F5][F5]
+2017-03-13 16:23:49||35352||?||2017-03-13.txt - 记事本||[F5][F5][F5][F5][F5]
+2017-03-13 16:24:22||36048||à||2017-03-13.txt - 记事本||[Lmenu][ALT]A
+2017-03-13 16:24:22||36048||?||2017-03-13.txt - 记事本||[Lmenu][ALT]A
+2017-03-13 16:24:27||10336||QQ.exe||青青草原||[ALT][ALT]V[Enter]BENDI WENJIAN DOU JILL[Del] L [Enter]WOSHIBUS GAIQ [Del][Del][Del][Del][Del][Del]YICHULE [Enter][Rshift]/[Enter]   ....[Enter]
+2017-03-13 16:24:27||10336||QQ.exe||青青草原||[ALT][ALT]V[Enter]BENDI WENJIAN DOU JILL[Del] L [Enter]WOSHIBUS GAIQ [Del][Del][Del][Del][Del][Del]YICHULE [Enter][Rshift]/[Enter]   ....[Enter]
+2017-03-13 16:29:25||2708||pycharm.exe||spy - [F:\PythonWorkSpace\hanjia\huihui\day14\spy] - ...\client\KeySpy.py - PyCharm 5.0.3||[ALT][Lmenu]A
+2017-03-13 16:29:25||2708||pycharm.exe||spy - [F:\PythonWorkSpace\hanjia\huihui\day14\spy] - ...\client\KeySpy.py - PyCharm 5.0.3||[ALT][Lmenu]A
+2017-03-13 16:29:30||10336||QQ.exe||青青草原||[ALT]V[Enter]NAGE2WEIZHI [Enter]
+2017-03-13 16:29:30||10336||QQ.exe||青青草原||[ALT]V[Enter]NAGE2WEIZHI [Enter]
+2017-03-13 16:30:27||2708||pycharm.exe||spy - [F:\PythonWorkSpace\hanjia\huihui\day14\spy] - ...\client\KeySpy.py - PyCharm 5.0.3||[Enter]DownSELF.DATA + [Rshift]銆愩�慬ALT]S[ALT][Lmenu]A
+2017-03-13 16:30:27||2708||pycharm.exe||spy - [F:\PythonWorkSpace\hanjia\huihui\day14\spy] - ...\client\KeySpy.py - PyCharm 5.0.3||[Enter]DownSELF.DATA + [Rshift]銆愩�慬ALT]S[ALT][Lmenu]A
+2017-03-13 16:30:51||10336||QQ.exe||青青草原||[ALT]V[Enter]ZHEY [Rshift]/[Enter]
+2017-03-13 16:30:51||10336||QQ.exe||青青草原||[ALT]V[Enter]ZHEY [Rshift]/[Enter]
+2017-03-13 16:31:26||2708||pycharm.exe||spy - [F:\PythonWorkSpace\hanjia\huihui\day14\spy] - ...\client\KeySpy.py - PyCharm 5.0.3||[ALT]S[ALT]S
+2017-03-13 16:31:26||2708||pycharm.exe||spy - [F:\PythonWorkSpace\hanjia\huihui\day14\spy] - ...\client\KeySpy.py - PyCharm 5.0.3||[ALT]S[ALT]S
+2017-03-13 16:31:26||2708||pycharm.exe||spy - [F:\PythonWorkSpace\hanjia\huihui\day14\spy] - ...\client\KeySpy.py - PyCharm 5.0.3||[ALT]S[ALT]S
+2017-03-13 16:31:40||10336||QQ.exe||青青草原||CHONG[Del][Del][Del][Del][Del][Del]XINYILUNCESHI [Enter]
+2017-03-13 16:31:40||10336||QQ.exe||青青草原||CHONG[Del][Del][Del][Del][Del][Del]XINYILUNCESHI [Enter]
+2017-03-13 16:31:40||10336||QQ.exe||青青草原||CHONG[Del][Del][Del][Del][Del][Del]XINYILUNCESHI [Enter]
+2017-03-13 16:31:40||10336||QQ.exe||青青草原||CHONG[Del][Del][Del][Del][Del][Del]XINYILUNCESHI [Enter]
+2017-03-13 16:31:51||2708||pycharm.exe||spy - [F:\PythonWorkSpace\hanjia\huihui\day14\spy] - ...\client\launcher.py - PyCharm 5.0.3||XINYILUNCESHI
+2017-03-13 16:31:51||2708||pycharm.exe||spy - [F:\PythonWorkSpace\hanjia\huihui\day14\spy] - ...\client\launcher.py - PyCharm 5.0.3||XINYILUNCESHI
+2017-03-13 16:31:51||2708||pycharm.exe||spy - [F:\PythonWorkSpace\hanjia\huihui\day14\spy] - ...\client\launcher.py - PyCharm 5.0.3||XINYILUNCESHI
+2017-03-13 16:31:51||2708||pycharm.exe||spy - [F:\PythonWorkSpace\hanjia\huihui\day14\spy] - ...\client\launcher.py - PyCharm 5.0.3||XINYILUNCESHI
+2017-03-13 16:32:07||5304||360chrome.exe||键盘记录系统 - 360极速浏览器||[Lmenu][ALT]A
+2017-03-13 16:32:07||5304||360chrome.exe||键盘记录系统 - 360极速浏览器||[Lmenu][ALT]A
+2017-03-13 16:32:07||5304||360chrome.exe||键盘记录系统 - 360极速浏览器||[Lmenu][ALT]A
+2017-03-13 16:32:07||5304||360chrome.exe||键盘记录系统 - 360极速浏览器||[Lmenu][ALT]A
+2017-03-13 16:32:24||10336||QQ.exe||青青草原||[ALT]V[Enter]CESHI 1HAP[Del]O 
+2017-03-13 16:32:24||10336||QQ.exe||青青草原||[ALT]V[Enter]CESHI 1HAP[Del]O 
+2017-03-13 16:32:24||10336||QQ.exe||青青草原||[ALT]V[Enter]CESHI 1HAP[Del]O 
+2017-03-13 16:32:24||10336||QQ.exe||青青草原||[ALT]V[Enter]CESHI 1HAP[Del]O 
+2017-03-13 16:32:45||2708||pycharm.exe||spy - [F:\PythonWorkSpace\hanjia\huihui\day14\spy] - ...\client\launcher.py - PyCharm 5.0.3||CESHIERHAO
+2017-03-13 16:32:45||2708||pycharm.exe||spy - [F:\PythonWorkSpace\hanjia\huihui\day14\spy] - ...\client\launcher.py - PyCharm 5.0.3||CESHIERHAO
+2017-03-13 16:32:45||2708||pycharm.exe||spy - [F:\PythonWorkSpace\hanjia\huihui\day14\spy] - ...\client\launcher.py - PyCharm 5.0.3||CESHIERHAO
+2017-03-13 16:32:45||2708||pycharm.exe||spy - [F:\PythonWorkSpace\hanjia\huihui\day14\spy] - ...\client\launcher.py - PyCharm 5.0.3||CESHIERHAO
+2017-03-13 16:33:02||5304||360chrome.exe||键盘记录系统 - 360极速浏览器||[ALT][Lmenu]A
+2017-03-13 16:33:02||5304||360chrome.exe||键盘记录系统 - 360极速浏览器||[ALT][Lmenu]A
+2017-03-13 16:33:02||5304||360chrome.exe||键盘记录系统 - 360极速浏览器||[ALT][Lmenu]A
+2017-03-13 16:33:02||5304||360chrome.exe||键盘记录系统 - 360极速浏览器||[ALT][Lmenu]A
+2017-03-13 16:33:07||10336||QQ.exe||青青草原||[ALT]V[Enter]ZHEC MAOS KEYIL [Enter]
+2017-03-13 16:33:07||10336||QQ.exe||青青草原||[ALT]V[Enter]ZHEC MAOS KEYIL [Enter]
+2017-03-13 16:33:07||10336||QQ.exe||青青草原||[ALT]V[Enter]ZHEC MAOS KEYIL [Enter]
+2017-03-13 16:33:07||10336||QQ.exe||青青草原||[ALT]V[Enter]ZHEC MAOS KEYIL [Enter]
+2017-03-13 16:33:34||5304||360chrome.exe||360导航_新一代安全上网导航 - 360极速浏览器||W2[shift]W2W2W2
+2017-03-13 16:33:34||5304||360chrome.exe||360导航_新一代安全上网导航 - 360极速浏览器||W2[shift]W2W2W2
+2017-03-13 16:33:34||5304||360chrome.exe||360导航_新一代安全上网导航 - 360极速浏览器||W2[shift]W2W2W2
+2017-03-13 16:33:34||5304||360chrome.exe||360导航_新一代安全上网导航 - 360极速浏览器||W2[shift]W2W2W2
+

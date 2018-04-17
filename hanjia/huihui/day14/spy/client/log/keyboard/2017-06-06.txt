@@ -1,0 +1,52 @@
+localTime            PID              executable            windowName                  keys
+2017-06-06 18:05:40||6268||QQ.exe||青青草原||TEST[Enter][Numpad0][Numpad0][Numpad1]
+2017-06-06 18:05:59||6460||360chrome.exe||新标签页 - 360极速浏览器||TEST[Numpad0][Numpad0][Numpad2]
+2017-06-06 18:06:21||8860||cloudmusic.exe||爱夏 - 胡夏||TEST[Numpad0][Numpad0][Numpad3][Enter]
+2017-06-06 18:06:32||6460||360chrome.exe||新标签页 - 360极速浏览器||[Numpad1][Numpad1][Numpad2][Decimal][Numpad1][Numpad1]
+2017-06-06 18:07:23||6268||QQ.exe||青青草原||[Del][Del][Del][Del][Del][Del][Del][Del][Del]TEST[shift][Numpad0][Numpad0][Numpad1][Del][Del][Del][Numpad1][Numpad1][Numpad1]
+2017-06-06 18:07:36||6460||360chrome.exe||新标签页 - 360极速浏览器||TEST[Numpad1][Numpad1][Numpad2]
+2017-06-06 18:07:44||8860||cloudmusic.exe||爱夏 - 胡夏||[Del][Del][Del][Del][Del][Del][Del][Del][Del][Del][Del][Del][Del]TEST[shift][Numpad1][Numpad1][Numpad3][Numpad1][Numpad1][Del][Del]
+2017-06-06 18:08:20||9248||à||改格式.txt - 记事本||[Del][Del]
+2017-06-06 18:08:47||5384||à||Program Manager||YANSHI 
+2017-06-06 18:09:32||7972||wpp.exe||答辩.pptx * - WPS 演示||[Del][Del][Del][Del][Del][Del][Del][Del][Del]XITONG D JISHU YU SHIX [Del][Del]DENGL MOK 
+2017-06-06 18:11:22||6460||360chrome.exe||登录 - 360极速浏览器||[Lmenu][ALT]A
+2017-06-06 18:11:32||7972||wpp.exe||答辩.pptx * - WPS 演示||[Del][ALT]V[ALT]C[ALT]V[Del][Del][Del][Del]SHIX LeftLeftXIT [ALT]Z[ALT]C[Del][ALT]V[ALT]C[ALT]V[ALT]C[ALT]V[Del][Del][Del][Del][Del]DENGL [ALT]C[ALT]V[Del][Del]ZHUC 
+2017-06-06 18:13:31||6460||360chrome.exe||注册 - 360极速浏览器||[Numpad9][Numpad9][Numpad6][Numpad3][Numpad1][Numpad5]SUNSHINE[ALT][Lmenu]A[Lmenu][ALT]A
+2017-06-06 18:13:57||7972||wpp.exe||答辩.pptx * - WPS 演示||[ALT]V[ALT]C[Del][ALT]V[Del][ALT]C[ALT]V
+2017-06-06 18:15:13||6460||360chrome.exe||EasyKeylogger|首页 - 360极速浏览器||[Lmenu][ALT]A[ALT][Lmenu]A[ALT][Lmenu]A[Lmenu][ALT]A
+2017-06-06 18:16:59||7972||wpp.exe||答辩.pptx * - WPS 演示||[ALT]V[ALT]Z
+2017-06-06 18:17:26||9844||WeChat.exe||微信||,,,[Enter]HAIGAI22[Rshift]/[Enter]
+2017-06-06 18:18:27||9888||WINWORD.EXE||西安邮电大学毕设论文_徐菲_最终版.docx [兼容模式] - Word||[ALT]C
+2017-06-06 18:18:32||7972||wpp.exe||答辩.pptx * - WPS 演示||[ALT]V[Del][Del]JIEM [Del][Del]JIEM [Del]
+2017-06-06 18:19:11||6460||360chrome.exe||键盘记录系统 - 360极速浏览器||[Lmenu][ALT]A
+2017-06-06 18:19:29||7972||wpp.exe||答辩.pptx * - WPS 演示||[ALT]V[ALT]Z[Del][Del][Del][Del]
+2017-06-06 18:21:15||6460||360chrome.exe||EasyKeylogger|首页 - 360极速浏览器||[ALT][Lmenu]A
+2017-06-06 18:21:22||7972||wpp.exe||答辩.pptx * - WPS 演示||[ALT]V[Del][Del][Del]
+2017-06-06 18:22:08||6460||360chrome.exe||EasyKeylogger|首页 - 360极速浏览器||[ALT][Lmenu]A
+2017-06-06 18:22:15||7972||wpp.exe||答辩.pptx * - WPS 演示||[ALT]V[Del][Del]LeftLeftXIT XIT [ALT]C[Del][ALT]V[Del]
+2017-06-06 18:23:44||6460||360chrome.exe||键盘记录系统 - 360极速浏览器||[Lmenu][ALT]A
+2017-06-06 18:23:54||7972||wpp.exe||答辩.pptx * - WPS 演示||[ALT]V
+2017-06-06 18:24:38||6460||360chrome.exe||键盘记录系统 - 360极速浏览器||[ALT][Lmenu]A
+2017-06-06 18:25:06||7972||wpp.exe||答辩.pptx * - WPS 演示||[Del][ALT]V[ALT]C[Del][ALT]V[ALT]S[Del][Del][Del][Del][Del][Del][Del][Del][Del][Del][Del][Del][Del]ZONGJIE [Del][Del]ZHIXIE2[Del][Del]ZONGJIE 
+2017-06-06 18:31:22||6460||360chrome.exe||键盘记录系统 - 360极速浏览器||[ALT][Lmenu]A[Lmenu][ALT]A
+2017-06-06 18:31:54||7972||wpp.exe||答辩.pptx * - WPS 演示||[Del][ALT]V[ALT]Z[ALT]Z[ALT]Z[Del]
+2017-06-06 18:32:21||6460||360chrome.exe||键盘记录系统 - 360极速浏览器||[ALT][Lmenu]A
+2017-06-06 18:32:47||7972||wpp.exe||答辩.pptx * - WPS 演示||[ALT]V[Del]
+2017-06-06 18:33:08||6460||360chrome.exe||键盘记录系统 - 360极速浏览器||[ALT][Lmenu]A
+2017-06-06 18:33:21||7972||wpp.exe||答辩.pptx * - WPS 演示||[ALT]V[ALT]C[ALT]V[ALT]C[ALT]V[ALT]C[ALT]V
+2017-06-06 18:36:00||6460||360chrome.exe||键盘记录系统 - 360极速浏览器||[ALT][Lmenu]A
+2017-06-06 18:36:16||7972||wpp.exe||答辩.pptx * - WPS 演示||[ALT]V[ALT]S[ALT]S[Del][Del][ALT]Z[ALT]Z[Del][Del][Del][Del][Del][Del][Del][Del][Del]XITONG D JISHU JI SHIX [Del][Del][Del][Del][Del][Del][Del][Del][Del]JPJLQ D GONGN MOK [Del][Del][Del][ALT]Z[Del][ALT]S[ALT]Z[ALT]Z[ALT]Z[ALT]S[ALT][Lmenu]A
+2017-06-06 18:41:00||6268||QQ.exe||青青草原||[ALT][ALT]V[Enter]DIWUG[Del][Del][Del][Del][Del][Del][shift]HAIY YIGE WU2SHISHA [Rshift]/[Enter]WUQUEY [Enter][Rshift]/[Enter]WOZHEGE [Del][Del][Del][Del][ALT]VGOUZI DIAOY [Enter]
+2017-06-06 18:45:59||6156||wpp.exe||答辩.pptx - WPS 演示||[ALT]X[ALT]V[ALT]Z[ALT]Z[ALT]Z[ALT][ALT]C[ALT]V[Del][ALT]C[ALT]V[Del][Del][Del][Del]JIANPANJIL [Del][Del][Del][Del][Del][Del][Del][Del][Del][Del]YOG[Del]NG GOUZIDIAOYONG JISHU [ALT][Lmenu]A
+2017-06-06 18:48:11||6268||QQ.exe||青青草原||[ALT]V[Enter]OK L [Enter]NI KANW D[Del][Del]W D[Del][Del][Del][Del][Del][Del]SI[Del][Del]DIERGE ZHID2[Enter]SHENGXIA D ,,,,SHUOBUCUL2...[Enter]HOOK ZHID [Enter]    QIUJ LeftLeftQI[Del][Del]RightXIAOLL LAOS ZHI4Right[shift]```[Enter]NIJ GEIW SHUO ZA [Del][Del][Del][Del][Del][Del]OK [Enter]NANI JEN[Del][Del][Del]KEN[Del]DEI JIAOWO2[Enter]NIKK [Del]W D PPT[Enter]L M [Rshift]/[Enter]CHUNBUC ,,[Enter]OK [Enter]NAJU[Del]IUH [Enter]     NAJ WANL DA[Del][Del][Del][Del][Del][Del]NAJIU WANC GONGZ L [Enter]ZHIDENG NI  GEIW JIAOYIXIE2ZHUANGBI D HUA ,WOMINGT Q ZHUANGYIBO JIU OK L [Enter]EE [Enter]
+2017-06-06 18:56:10||6156||wpp.exe||答辩.pptx * - WPS 演示||[ALT]S
+2017-06-06 19:00:08||6268||QQ.exe||西邮13级学习交流群||[Escape][Escape]
+2017-06-06 19:07:06||9828||WINWORD.EXE||西安邮电大学毕设论文_徐菲_最终版.docx [兼容模式] - Word||[ALT]Z[Del][Del][Del][Del][Del][Del][Del][Del][Del][Del][Del][Del][Del][Del][ALT]S
+2017-06-06 19:12:35||6268||QQ.exe||西邮13级学习交流群||YOU CHUI[Del]LI XUEZ D XUEJIE ,BUZHI3XUEDI YAOBUY [Enter]DAZHE CHUL D [Enter]     MAIYISONGYI [Enter][Escape]OK [Enter][Escape][Escape][Enter]LUNW DAY LEM [Rshift]/[Enter]XQGG [Enter]
+2017-06-06 23:28:57||2672||wpp.exe||答辩.pptx - WPS 演示||[ALT][Lmenu]A
+2017-06-06 23:29:03||6268||QQ.exe||青青草原等2个会话||[ALT]V[Enter]ZHE WUGE RUHE ZHUANGBI [Del][Del]JI[Del][Del][Del][Del]JIESHI [Enter]NINNG[Del][Del][Del][Del][Del]DI ERGE [Del][Del][Del][Del]DIERGE BUYONG [Enter]   NIBA[Del] [Del]NBN BA QIYU JIGE GEIW YIG TONGSUYIDONG D JIESHI [Enter]MINGT WOY ZAS2....[Enter]....[Enter]    W[Del]NI SHASHIH JIAO D [Rshift]/[Enter]
+2017-06-06 23:30:20||9844||WeChat.exe||微信||OK [Enter]
+2017-06-06 23:30:28||6268||QQ.exe||｛常恒源｝等2个会话||TA3SHUO [Del][Del]TAS [Del]HAI MEIKANW [Del]W ZUIZ BAN NE [Enter]   WO MINGT ZAOS ZHIJ DAYINLE GEITA3NAGUOQ ...[Enter]
+2017-06-06 23:31:03||9844||WeChat.exe||微信||...[Enter]
+2017-06-06 23:31:43||6268||QQ.exe||谢老师等3个会话||[Escape]OK MA [Rshift]/[Enter]DIYIG YE [Del][Del][Del][Del]DIER[Del][Del][Del][Del]SHUJUJIEG[Del][Del][Del][Del]SHANGC MOK ZHUY SHI JIANLILIANGG XIANC YIJI YIGE HUANCHONGQU ,YIGE [Del]G[Del]GE XIANC YONGL BA SHUJU FANGRU HUANCHONGU[Del]Q ,LINGYIGE XIANC YONGL QUCHU [Del][Del]QUCHU2HUANCHONQ LeftLeftLeftLeftRightRightLeftRightRightRightZHONG D H[Del]SHUJU BINGBA SHUJU [Del][Del]LeftLeft[Del][Del]NEIR RightRight[Del]BA TA SHANGC DAO FUWUQ DUA D SHUJUK Z2[Enter]
+

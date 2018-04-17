@@ -1,0 +1,9 @@
+localTime            PID              executable            windowName                  keys
+2017-04-24 17:25:07||11700||360chrome.exe||新标签页 - 360极速浏览器||[Numpad1][Numpad2][Numpad7].[Del][Del][Numpad3][Decimal][Numpad2][Numpad0][Numpad7]
+2017-04-24 17:27:01||2300||QQ.exe||STRIVE等2个会话||....[Enter][Rshift]DJANFO[Enter][Del][Del]GO[Enter][Enter]
+2017-04-24 17:27:48||11700||360chrome.exe||新标签页 - 360极速浏览器||XIANYOUDIANDAXUE 
+2017-04-24 17:29:19||2300||QQ.exe||青青草原等2个会话||OK L [Enter]3[Enter]Q[Enter][Enter][Escape]
+2017-04-24 17:36:33||11700||360chrome.exe||新标签页 - 360极速浏览器||TEST[Enter]1
+2017-04-24 17:36:44||2300||QQ.exe||STRIVE||TEST[Enter]2[Enter]
+2017-04-24 17:37:08||11700||360chrome.exe||新标签页 - 360极速浏览器||TEST[Enter]3
+

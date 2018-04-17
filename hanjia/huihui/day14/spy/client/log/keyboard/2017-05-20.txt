@@ -1,0 +1,96 @@
+localTime            PID              executable            windowName                  keys
+2017-05-20 13:43:16||7440||putty.exe||123.207.93.174 - PuTTY||[shift]ABC98765[Enter][Enter]CD /OPT/SPYSERVER/SPYSERVER[Enter]PYTHON MANAGE.PY RUNSERVER 0.0.0.0[Rshift]:12345[Enter]
+2017-05-20 13:44:43||1084||360chrome.exe||新标签页 - 360极速浏览器||[Numpad1][Numpad2][Numpad3][Decimal][Numpad2][Numpad0][Numpad7][Decimal][Numpad9][Numpad3][Decimal][Numpad1][Numpad7][Numpad4][Rshift]:
+2017-05-20 13:45:13||260||wps.exe||毕业论文内容v1 20170518234913.docx - WPS 文字||[ALT]S
+2017-05-20 13:45:56||2096||Thunder.exe||None||[ALT]V
+2017-05-20 13:47:25||260||wps.exe||毕业论文内容v1 20170518234913.docx - WPS 文字||[ALT]V[Enter]  [Enter]
+2017-05-20 13:54:53||1084||360chrome.exe||python实现键盘记录木马 - 360极速浏览器||[ALT]C
+2017-05-20 13:54:59||260||wps.exe||毕业论文内容v1 20170518234913.docx * - WPS 文字||[ALT]V[Del][Del][Del][Del][Del][Del][Del][Del][Del]YONG JIANPAN JIANRU YIGE SHUJU [Del]LAI [Del][Del]JIANPAN JIANRU D [Del][Del][Del][Del]CHULI QIE [Del][Del]GEI [Enter]XIAM [Del][Del][Del][Del]XIAM GEICHU JIANPANJIQ[Del]LQ [Del]HANSHU D LUOJI TU [Rshift]:[Enter]
+2017-05-20 13:58:49||1084||360chrome.exe||python实现键盘记录木马 - 360极速浏览器||[Lmenu][ALT]A
+2017-05-20 13:59:01||260||wps.exe||毕业论文内容v1 20170518234913.docx * - WPS 文字||[ALT]V[Enter]TU [shift][Numpad4][Decimal][Numpad4][Decimal][Del][Del][Numpad1][Decimal][Numpad1][Decimal][Numpad1][shift] JIANPANJIL HANSHU D LUOJIRU [Del]TU [Enter]YIJI JINCHENG QIEHUAN HANSHU D ZHIXING LUOJITU 
+2017-05-20 14:00:23||1084||360chrome.exe||python实现键盘记录木马 - 360极速浏览器||[Lmenu][ALT]A
+2017-05-20 14:00:40||260||wps.exe||毕业论文内容v1 20170518234913.docx * - WPS 文字||[ALT]V[ALT]CZHIX ZHIX [Enter][ALT]V[Del][Del][Del][Del]JING[Del]C QIEHUAN [Del][Del][Enter][Enter][Del][Del] [Del][Del][Del][Del][Del]WOMM [Del][Del][Del]WOM ZAI FUWUD CAIY  [Del]LAI [ALT]X
+2017-05-20 14:11:23||17464||à||看文档提问题.txt - 记事本||[ALT]V[ALT]S
+2017-05-20 14:11:31||260||wps.exe||毕业论文内容v1 20170518234913.docx * - WPS 文字||[Enter][ALT]S
+2017-05-20 14:12:33||20632||notepad++.exe||F:\Senior_2\GraduationProjectMaterials\spyserver\spyserver\spy\views.py - Notepad++||[ALT]C[ALT]C
+2017-05-20 14:12:45||1084||360chrome.exe||python post 上传文件_百度搜索 - 360极速浏览器||[ALT]V[Enter]
+2017-05-20 14:15:36||12008||QQ.exe||蝴蝶结先生||ZUIHOU YIDD F[Del][Del][Del]BUF FUWUQ D SHEJI YU SHIXIAN BUH[Del][Del][Del]LIBUCHU TOUXU  [Del] L [Del][Del] [Del]L [Enter][Rcontrol][Enter]NIYOUMEIYOUL[Del]K ,[Del]BANGW [Del][Del][Del][Del][Del][Del][Del][Del][Del][Del][Del][Del][Del][Del][Del][Del]
+2017-05-20 14:28:59||13440||à||陌上花开 (F:)||WENX [Enter]
+2017-05-20 14:30:13||260||wps.exe||毕设外文文献.docx - WPS 文字||[ALT]C
+2017-05-20 14:30:16||1084||360chrome.exe||django-response对象 - scolia - 博客园 - 360极速浏览器||[ALT]V[Enter]ZHIW [Enter][ALT]V[Del][Del][Del][Del][Del][Del][Del][Del][Del][Del][Del][Del][Enter][ALT]C[ALT]V[Del][Del][Del]GG[Del][Del][ALT]V[Del]
+2017-05-20 14:36:41||260||wps.exe||毕设外文文献.docx - WPS 文字||[ALT]C
+2017-05-20 14:36:44||1084||360chrome.exe||Glgoo 学术搜索 - 360极速浏览器||[ALT]V[Enter]GOOGLE[Enter][Del][Del][Del][Del][Del][ALT]V[Enter][Enter]GUGE XUESHU [Enter]GOOGLR[Enter][Del]E[Enter][Enter]HH[Del][Del]GG XUESHU [Enter][ALT]V
+2017-05-20 14:43:36||260||wps.exe||毕设外文文献.docx - WPS 文字||[ALT]C
+2017-05-20 14:43:40||12008||QQ.exe||Self    Discipline||[ALT]V[Enter][Rcontrol][Enter]
+2017-05-20 14:47:26||260||wps.exe||毕设外文文献.docx - WPS 文字||[ALT]C
+2017-05-20 14:47:29||12008||QQ.exe||Self    Discipline||[ALT]V[Enter][Rcontrol][Enter]
+2017-05-20 14:52:29||13440||à||SUNSHINE (G:)||[ALT]C[ALT]V[Rshift]A [Rshift]METIC++[Del][Del]RIC[Enter][Rshift]FOR[Enter][Rshift]THE[Enter][Rshift]EVALUATION[Enter][Rshift]AND[Enter][Rshift]COMPARISON[Enter][Rshift]OF [Rshift]KEYLOGGER[Enter][Rshift]PERFOEMANCE[Enter][Enter]
+2017-05-20 14:55:36||260||wps.exe||毕业论文内容v1 20170518234913.docx - WPS 文字||[Del][ALT]Z[Del][Del][ALT]S
+2017-05-20 14:59:15||12008||QQ.exe||蝴蝶结先生等2个会话||NBN BANGWO KANYIX [Rshift]/[Enter][Rcontrol][Enter]
+2017-05-20 15:01:31||2840||wps.exe||另存为||Right[Del]
+2017-05-20 15:02:04||13440||à||Senior_2||Left[Del][Del][Del][Del][Del][Del][Del][Del][Del][Del][Del][Del][Del][Del][Enter]
+2017-05-20 15:04:59||12008||QQ.exe||蝴蝶结先生等2个会话||[ALT][ALT]V
+2017-05-20 15:13:35||5968||wps.exe||毕业论文内容v1 20170518234913.docx - WPS 文字||DownDownDownDownUp[ALT]V[ALT]Z[Enter][ALT]V[Del][Del]BENC [Del]CX[Del][Del]XIT SUO CAIY D [Del][Del][Del][Del]WOMEN [Del][Del]Z FUWU D[Del]QI DUAN SUOXUY ZUODE JIUS [Del][Del]ZAI J[Del]DJANF[Del]GO[Enter]ZHONG SHI JEYI[Del][Del][Del][Del]KEI[Del]YI ZIDONG CHUANGJ GAIDUIX D [Del]BING TA D WOM [Del][ALT]X[Enter][ALT]V[Del]ZHEGE MOK SHI JIYU [Rshift]HTTP XIEYI WANCHENGDE ,[Del][Del]MOK [ALT]S
+2017-05-20 15:22:46||1084||360chrome.exe||新标签页 - 360极速浏览器||DJANF[Del]GO[Enter]D SHITU [Del][Del]SHITU4BUD[Del]F SHI GANMA D [Enter][ALT]C[ALT]C
+2017-05-20 15:23:51||5968||wps.exe||毕业论文内容v1 20170518234913.docx - WPS 文字||[Enter][ALT]V[Del][Del][Del][Del]GEI [Del][Del][ALT]X[Enter][ALT]V[Del][Del][Del],[ALT]X[ALT]V[Del][Del][ALT]XLeftLeft[Del][Del][Del]WOM [Del][Del][ALT]V[Del][Del]GAI [ALT]X.[ALT]V[ALT]X[ALT]V[Del][Del][Del][Del]QI2[Del][Del][Del][Del][Del].[Del][Del][Del][Del][Del][Del][Del][Del][Del][Del].[Del][Del][Del][Del][Del][Del][Del][Del][Del][Del][Del][Del][Del][Del][Del][Del][Del][Del][Del][Del][Del][Del][Del][Del][Del]DAZHI GUOC SHI [Del],[Del].[Del][Del]QI .[Del],DAHZ [Del]SHI [Rshift]:[Del][Del]SH [Rshift]:[Del][Del]WEI [Rshift]:[ALT]SS[Enter][Enter][Enter][Enter][Enter][Enter][Enter][Enter][Enter][Enter][Enter][Enter][Enter][Enter][Enter][Enter]
+2017-05-20 15:34:01||20632||notepad++.exe||F:\Senior_2\GraduationProjectMaterials\spyserver\spyserver\spy\views.py - Notepad++||[ALT]C
+2017-05-20 15:34:07||5968||wps.exe||毕业论文内容v1 20170518234913.docx * - WPS 文字||[ALT]QI JUR[Del]T SHIXIAN GUOC [Del][Del]DAIMA RUXIA SUOSHI [Rshift]:[Enter][ALT]V[Del][Del][Del][Del][Del][Del][Del]DownUp[Del][Del][Del][Del][Del][Del][Del][Del][Del][Del][Del][Del][Del][Del][Del][Del][Del][Del][Del][Del][Del][Del][Del][Del][Del][Del][Del][Del][Del][Del][Del][Del][Del][ALT]Z[Del][Del][ALT]X[ALT]Z[ALT]S[Del][ALT]S[Del][Del][Del][ALT]S[ALT]S
+2017-05-20 15:49:57||10568||360chrome.exe||百度一下，你就知道 - 360极速浏览器||[shift]PAPRFREE[Enter]
+2017-05-20 15:56:22||5968||wps.exe||毕业论文内容v1 20170518234913.docx - WPS 文字||[Del][Del][Del][Del][Del][Del][Del]
+2017-05-20 16:01:59||10568||360chrome.exe||新标签页 - 360极速浏览器||AMAZEUI[Enter]WOBU[Del][Del][Del][Del][Del][Del][shift]WOBUXS  BDY [Enter][Del][Del][Del][Del]K[Enter]WA [Enter][Volume_Up][Volume_Up][Volume_Up][Volume_Down][Volume_Down][Volume_Down][Volume_Down][Volume_Down][Volume_Down][Del]
+2017-05-20 16:20:36||5968||wps.exe||毕业论文内容v1 20170518234913.docx * - WPS 文字||GAIMOK ZHUY YONG AMAZE Left[Del][Rshift]A RightRightRightRight[Rshift]UI Left KUANGJ ,
+2017-05-20 16:23:02||10568||360chrome.exe||新标签页 - 360极速浏览器||Q[Del]QIANDUAN MOO[Del][Del][Del]D KUO[Del][Del][Del]MOK ZENME MIAOSHU [Enter]
+2017-05-20 16:28:48||7440||putty.exe||PuTTY (inactive)||[Enter]
+2017-05-20 16:28:59||10568||360chrome.exe||500 Internal Privoxy Error - 360极速浏览器||[Enter]
+2017-05-20 16:30:20||5968||wps.exe||毕业论文内容v1 20170518234913.docx * - WPS 文字||JQ[Enter]YANZ DENGLU XINXI ,HL[Del]TML BIANXIE QIANDUAN YEMIAN ,CSS[Enter]TIAOZH [Del][Del]TIAOZHENG YEMIAN YANGSHI [ALT]X[ALT]V,TONGSHI DIAY[Del]OONG LIM D CSS[Enter]ZUJIAN Right
+2017-05-20 16:33:49||10568||360chrome.exe||Amaze UI | 中国首个开源 HTML5 跨屏前端框架 - 360极速浏览器||[ALT]C
+2017-05-20 16:33:52||5968||wps.exe||毕业论文内容v1 20170518234913.docx * - WPS 文字||[ALT]V[Del]CHU CHUSE D [Del][Del][Del]MIAN I[Del]BIAOQ KUANGJIA SHIXIAN [Del][Del][Del][Rshift]JQUERY[Enter][Del][Del][Del][CAP]CSS[shift][CAP][Del][Del][Del]CSS[Del][Del][Del][CAP]CSS[CAP]DU[Del][Del][shift][Del][Del]Y[Del]DAFUDU D RightRightL RightRightLeftLeftLeft[Del]GAO RightRightRightD RUG YONGHU MING HUO YPNGHU[Del][Del][Del][Del][Del][Del][Del][Del][Del][Enter]UpEndSHI YONG HU [Del][Del][Del]XIANG2YONGHU ZHANXIAN JIEMIAN LeftLeftJIANPANJILUQ D SHIY [Del].ZHUY SHI [Del][Del],[Del][Del][Del]GAO3[ALT]SDANG [Del]DANG YONGHUMING BUHEFA SHI [Del]SHI2,[Del][Enter]ZAI DENGL BU[Del][Del]MOK CHU3,[Del][shift]Q DANG GAI YONGHUM WEIBEI2ZHUCE SHI2,HUI TISHI 
+2017-05-20 16:45:08||19004||putty.exe||123.207.93.174 - PuTTY||AB[Del][Del][shift]ABC98765[Enter]Up
+2017-05-20 16:45:32||5968||wps.exe||毕业论文内容v1 20170518234913.docx * - WPS 文字||YONGHU MING [Del]MING BUCUNZ ,DANG  YONGHU[Del][Del]HU MIMA [Del]MING CUND[Del]Z ,DANSHI S[Del]YONGHU RightRightYU2YONGHUM [Del][Del][Del][Del]CUOR[Del]W SHI3,HUITISHI YONGHU MIMA CUOW .[Enter]ZAI ZHUCE MI[Del]K CHU ,DANG YONGHU MING BUHEF[Del][Del][Del]FUHE GUID SHI [Del]SHI2,BENCI [Del][Del]ZHELI GUID D YONGHUM BUNENG CHAOGUO 6GE ZIFU ,ZE TISHI YONGHUM BUHEF :DANG[Del][Del][Del][Del]MIMA YE LeftLeftLeftYONG HU RightRightRightHE YONGHUMIN [Del]MING YIY ,BUNENG CHAOGUO 6GE ZIFU 
+2017-05-20 16:48:39||19004||putty.exe||123.207.93.174 - PuTTY||UpUp[Enter]UpUp[Enter]
+2017-05-20 16:49:24||10568||360chrome.exe||登录 - 360极速浏览器||TEST[Enter][shift]WRONG[Enter]1234567[Del][Del][Del][Del][Del][Del][Del][Del]12345[ALT][Lmenu]A[Del][Del][Del][Del][Del]
+2017-05-20 16:51:18||5968||wps.exe||毕业论文内容v1 20170518234913.docx * - WPS 文字||[Del][Del]XIAOYU2[Del][Del]SHAOYU ,RUTU SUOSHI [Rshift]:
+2017-05-20 16:51:59||10568||360chrome.exe||123.207.93.174:12345 显示：||[Lmenu][ALT]A
+2017-05-20 16:52:21||5968||wps.exe||毕业论文内容v1 20170518234913.docx * - WPS 文字||[ALT]V[Del]
+2017-05-20 16:52:37||10568||360chrome.exe||123.207.93.174:12345 显示：||[ALT][Lmenu]A
+2017-05-20 16:52:51||5968||wps.exe||毕业论文内容v1 20170518234913.docx * - WPS 文字||[Enter][ALT]V[Del]
+2017-05-20 16:53:26||10568||360chrome.exe||登录 - 360极速浏览器||[Del]SUNSHINE[Del][Del][Del][Del][Del][Del][Del][Numpad1][Numpad1][Numpad1][Numpad1][Numpad1][Numpad1][Numpad1][Numpad1][Numpad1][Numpad1][Numpad1][Numpad1][ALT][Lmenu]A[ALT][Lmenu]A
+2017-05-20 16:54:12||5968||wps.exe||毕业论文内容v1 20170518234913.docx * - WPS 文字||[Enter][ALT]V
+2017-05-20 16:54:25||10568||360chrome.exe||登录 - 360极速浏览器||[Lmenu][ALT]A
+2017-05-20 16:54:42||5968||wps.exe||毕业论文内容v1 20170518234913.docx * - WPS 文字||[Del][ALT]VMING HUO MIM[Del][Del][Del]RUTU SUOSHI [Rshift]:[Enter]TU [Numpad4][Decimal][Numpad2][Decimal][Numpad1][Decimal][Numpad1] DENGLUO[Del] MOK YANSHI RUG BUFUHE LeftLeftLeftLeftLeftRightRightMIM RightRightRightGUIDING ,ZE GEICHU L[Del]TISHI ,[Del].DANG [Del]DANG DIYIC SHURU D MIMA [Del]ER3HE DIYICI SHURU D MM BUYIZ SHI2YE YAO [Del]HUI GEICHU TISHI .
+2017-05-20 16:57:23||10568||360chrome.exe||注册 - 360极速浏览器||TESTTESTTEST[Lmenu][ALT]A[ALT][Lmenu]A
+2017-05-20 16:57:55||5968||wps.exe||毕业论文内容v1 20170518234913.docx * - WPS 文字||[Enter][ALT]V[Enter]TU [Numpad4][Decimal][Numpad2][Decimal][Numpad1][Decimal][Numpad2] ZHUCE MOK YANSHI [Enter]ZAI QUANXIAN K[Del][Del][Del][Del][ALT]C[ALT]VLeftLeftLeftLeft[Del][Del]QUANX KONGZHI 
+2017-05-20 17:00:04||10568||360chrome.exe||登录 - 360极速浏览器||SUNSHINE996315SUNSHINE[Lmenu][ALT]A[ALT][Lmenu]A[Lmenu][ALT]A
+2017-05-20 17:01:20||5968||wps.exe||毕业论文内容v1 20170518234913.docx * - WPS 文字||YONGHU KEYI SHIXIAN ANZ [ALT]C[ALT]VYON 
+2017-05-20 17:02:07||10568||360chrome.exe||键盘记录系统 - 360极速浏览器||[ALT][Lmenu]A[ALT][Lmenu]A
+2017-05-20 17:09:29||13440||à||None||[ALT]S
+2017-05-20 17:09:31||5968||wps.exe||毕业论文内容v1 20170518234913.docx * - WPS 文字||[ALT]S[ALT]SQI ZHANSHI XIAOG RU XIA C[Del]SUOSI [Del][Del]SUOSH [Rshift]:[ALT]S[ALT]S
+2017-05-20 23:14:00||12140||wps.exe||另存为||[Del]
+2017-05-20 23:14:24||14772||QQ.exe||蝴蝶结先生||[ALT]V
+2017-05-20 23:22:26||12140||wps.exe||段落||[Numpad1][Decimal][Numpad5][Del][Del][Del][Del][Del][Del][Del][Del][Del][ALT]Z[Del][Del][Del][Del][Del][Del][Del][Del][Del][Numpad2][Numpad5]
+2017-05-20 23:28:27||14772||QQ.exe||蝴蝶结先生||ZHU[Del][Del][Del][Del]BINGBU CAOXIN ZISHU [Del]SHU4[Enter][Rcontrol][Enter]  ZHUYAOS SHIXIAN [Del][Del]SHEJIYUSHIS[Del]X NAKUAI BUHUIXIE [Rcontrol][Enter]S[Del]NEIR MEIGOU LeftLeftLeftLeftLeftZISHU GOULE ,[Rcontrol][Enter]DISIZ [Enter][Rcontrol][Enter]     D [Del][Del]DISIZ D [Del][Del][Del][Del][Del]WOZHEGE SHI NEIR [Enter][Rcontrol][Enter]   WOXIANZ [Del][Del]XIAN ZI[Del]AI ZHEGE LIM BIANJI ,ZHEY KAN ZHENGWEN D ZISHU BIJIAO FANGB [Enter][Rcontrol][Enter]        RANH ZAI LI[Del][Del][Del]Z [Del][Del][Del][Del]LINGWAI YIGE BANBEN LIM YOU MUL [Enter][Rcontrol][Enter]ZHUY SHI WENL [Del][Del]WEIK[Del]LE KAN ZISHU FANGB [Rcontrol][Enter][Numpad3][Decimal][Enter][Del][Del][Del][Numpad3][Decimal][Numpad4][Del][Del][Del][Lmenu][ALT]A[Enter][Rcontrol][Enter]ZE[Del]HEGE BUHUI XIE [Del]MEIXIE [Enter][Rcontrol][Enter]QISHI S[Del][Numpad4][Decimal][Numpad2]FUU[Del]WUQ DUAN D SHEJI YU SHIXIAN YOUDIAN CHE  XIEDE [Enter][Del][Rcontrol][Enter][Del][Rcontrol][Enter]JIM[Del]B DOU[Del][Del][Del][Del][Del]ZHEYI BUF CHUNSHU XIAC D .....[Rcontrol][Enter]           JIUS ZUIH2L [Enter][Del][Del]YIZHANG2D ZUIH YIXIAO[Del][Del][Del][Del]JIE [Enter][Rcontrol][Rcontrol][Enter]YIJI [Numpad3][Decimal][Numpad4]JIANPANJILQ D ZHENGTI JIAG [Enter][Rcontrol][Enter]SHENGXIA D BUF JIU NAY BA ,KANDE GUOQ JIU XING [Del][Del][Del][Del][Del][Del][Del][Del][Del][Del][Del]HAI SHAOW NENG KANDE GUOYAN4[Rcontrol][Enter]
+2017-05-20 23:49:24||12140||wps.exe||西安邮电大学毕业设计_徐菲v1.docx - WPS 文字||[Enter][Numpad2][Decimal][Numpad5]KEHUJI -FUWUQ MOSHI [Decimal][Numpad2][Numpad5][Del][Del][Numpad1][Decimal][Numpad2][Numpad5][Numpad1][Decimal][Numpad2][Numpad5]
+2017-05-20 23:53:54||17464||à||看文档提问题.txt - 记事本||[Del][Numpad3][Decimal][Numpad1]
+2017-05-20 23:54:00||12140||wps.exe||毕业论文内容v120170518234913.docx * - WPS 文字||[ALT]C
+2017-05-20 23:54:03||17464||à||看文档提问题.txt - 记事本||[ALT]V
+2017-05-20 23:54:08||12140||wps.exe||毕业论文内容v120170518234913.docx * - WPS 文字||[ALT]C
+2017-05-20 23:54:15||17464||à||看文档提问题.txt - 记事本||[Del][Enter][Enter][Enter][Enter][ALT]V[Del]
+2017-05-20 23:54:23||12140||wps.exe||毕业论文内容v120170518234913.docx * - WPS 文字||[ALT]C
+2017-05-20 23:54:27||17464||à||看文档提问题.txt - 记事本||[ALT]V
+2017-05-20 23:54:32||12140||wps.exe||毕业论文内容v120170518234913.docx * - WPS 文字||[ALT]C
+2017-05-20 23:54:35||17464||à||看文档提问题.txt - 记事本||[ALT]V
+2017-05-20 23:54:39||12140||wps.exe||毕业论文内容v120170518234913.docx * - WPS 文字||[ALT]C
+2017-05-20 23:54:43||17464||à||看文档提问题.txt - 记事本||[Enter][ALT]V[Enter][Del][Del][Del][Enter][Enter][Enter][Enter]
+2017-05-20 23:54:58||12140||wps.exe||毕业论文内容v120170518234913.docx * - WPS 文字||[ALT]C
+2017-05-20 23:55:01||17464||à||看文档提问题.txt - 记事本||[ALT]V
+2017-05-20 23:55:17||12140||wps.exe||毕业论文内容v120170518234913.docx * - WPS 文字||[ALT]C
+2017-05-20 23:55:21||17464||à||看文档提问题.txt - 记事本||[ALT]V
+2017-05-20 23:55:28||12140||wps.exe||毕业论文内容v120170518234913.docx * - WPS 文字||[ALT]C
+2017-05-20 23:55:30||17464||à||看文档提问题.txt - 记事本||[ALT]V
+2017-05-20 23:55:35||12140||wps.exe||毕业论文内容v120170518234913.docx * - WPS 文字||[ALT]C
+2017-05-20 23:55:38||17464||à||看文档提问题.txt - 记事本||[ALT]V[Enter][Enter]
+2017-05-20 23:55:46||12140||wps.exe||毕业论文内容v120170518234913.docx * - WPS 文字||[ALT]C
+2017-05-20 23:55:49||17464||à||看文档提问题.txt - 记事本||[ALT]V[ALT]C
+2017-05-20 23:56:47||12140||wps.exe||西安邮电大学毕业设计_徐菲v1.docx * - WPS 文字||[ALT]V[Del][Del][Del][Del][Del][Del][Del]ZHUYAOU[Del][Del]O NEIR YOU [Del][Del],[Del][Del][Del]/[Del][Del][Del],BAOK [Del][Del][Del]YIJI [Del][Del][Del]/[Del][Del][Del][Del][Del]/[ALT]X[Del][Del]YIJI .[ALT]V[ALT]C[ALT]V[Del][Del]HE .DISIZ [Del][Del][Del][Enter]DISIZ 
+2017-05-20 23:59:07||17464||à||看文档提问题.txt - 记事本||[ALT]V[ALT]Z[ALT]C
+

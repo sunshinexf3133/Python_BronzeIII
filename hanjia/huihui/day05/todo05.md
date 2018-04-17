@@ -1,0 +1,10 @@
+## 今日任务
+
+- 1.继续看书 第七章
+- 2.安装github
+- 3.学习搭建hexo+github 博客 (今日不需要全部完成)
+
+## 参考资料
+
+- 百度搜索hexo  第一篇就是<a href="http://www.jianshu.com/p/465830080ea9">HEXO+Github,搭建属于自己的博客</a>
+- 遇到问题请问我
